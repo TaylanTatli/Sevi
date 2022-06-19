@@ -49,7 +49,7 @@ install() {
   echo "Installing '${THEME_DIR}'..."
 
   mkdir -p                                                                             ${THEME_DIR}
-  cp -r ${SRC_DIR}/{COPYING,AUTHORS}                                                   ${THEME_DIR}
+  cp -r ${SRC_DIR}/{LICENSE,AUTHORS}                                                   ${THEME_DIR}
   cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
 
   if [[ $DESKTOP_SESSION == '/usr/share/xsessions/plasma' && ${color} == '' ]]; then
