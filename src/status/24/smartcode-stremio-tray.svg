@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   version="1.1"
+   viewBox="0 0 24 24"
+   id="svg9"
+   sodipodi:docname="smartcode-stremio-tray.svg"
+   inkscape:version="1.2 (dc2aedaf03, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs13" />
+  <sodipodi:namedview
+     id="namedview11"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="32.708333"
+     inkscape:cx="11.740128"
+     inkscape:cy="12.04586"
+     inkscape:window-width="1920"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg9" />
+  <g
+     id="g1124"
+     transform="translate(1.0000001,0.99999999)">
+    <path
+       style="color:#ffffff;opacity:0.35;fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 11,2.9999265 c -0.419066,0 -0.839081,0.155495 -1.152343,0.46875 L 3.4687506,9.8495359 C 3.1553031,10.162975 2.9995902,10.580935 3.0000006,10.999927 H 10 V 7.9999265 l 4,3.0000005 h 5 C 19,10.580958 18.842559,10.162791 18.529297,9.8495359 L 12.152344,3.4686765 C 11.839082,3.1554216 11.419067,2.9999265 11,2.9999265 Z"
+       id="path5" />
+    <path
+       style="color:#ffffff;fill:currentColor"
+       class="ColorScheme-Text"
+       d="m 3.0000006,10.999927 c 4.114e-4,0.418498 0.1576125,0.83732 0.4707031,1.15039 L 9.84961,18.529224 c 0.626525,0.62651 1.676208,0.628419 2.302734,0.002 l 6.376953,-6.380907 C 18.842559,11.837063 19,11.418896 19,10.999927 h -5 l -4,3 v -3 z"
+       id="path7" />
+  </g>
+</svg>

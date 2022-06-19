@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64" height="64" inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)" sodipodi:docname="inkdrop.svg" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd">
+ <sodipodi:namedview bordercolor="#666666" borderopacity="1.0" inkscape:current-layer="svg18" inkscape:cx="31.926521" inkscape:cy="32.036739" inkscape:pagecheckerboard="0" inkscape:pageopacity="0.0" inkscape:pageshadow="2" inkscape:window-height="1017" inkscape:window-maximized="1" inkscape:window-width="1920" inkscape:window-x="0" inkscape:window-y="0" inkscape:zoom="13.609375" pagecolor="#ffffff" showgrid="false"/>
+ <defs>
+  <filter id="filter1057-1" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.61875"/>
+  </filter>
+  <linearGradient id="linearGradient1053-2" x1="-127" x2="-80.659" y1="60" y2="13.659" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#66b6ea" offset="0"/>
+   <stop stop-color="#8743ff" offset="1"/>
+  </linearGradient>
+ </defs>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-1)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+ <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053-2)" stroke-linecap="round" stroke-width="2.7444"/>
+ <path d="m27.1 46.988c-1.1492-0.21097-2.3278-0.95919-2.9578-1.8776-0.22728-0.33132-4.1417-7.0936-4.3783-7.5637-0.56562-1.1238-0.63097-2.4877-0.17633-3.6815 0.16364-0.4297 7.5626-13.341 8.4678-14.777 1.7644-2.7982 5.8418-2.916 7.6586-0.22127 0.21616 0.32058 8.2199 14.127 8.4425 14.563 1.0175 1.9941 0.81224 2.7643-2.0718 7.7739-2.8569 4.9626-3.0143 5.1478-4.8553 5.7095-0.57892 0.1767-9.2268 0.24091-10.129 0.07521zm9.6047-3.3941c0.40192-0.23626 0.36429-0.17745 2.5842-4.0362 2.3162-4.026 2.3317-4.0642 1.9561-4.8145-0.3605-0.72013-7.927-13.756-8.1432-14.03-0.55912-0.70728-1.7483-0.70497-2.2893 0.0045-0.3035 0.39792-8.1001 13.91-8.2157 14.239-0.24478 0.6956-0.38975 0.37373 2.1408 4.7532 2.0577 3.5613 2.2283 3.8129 2.6979 3.9803 0.55893 0.19922 8.9138 0.11233 9.2691-0.09638zm-5.4483-3.1848c-0.42464-0.22113-3.1189-4.5295-3.5004-5.5976-0.26007-0.72803 0.08309-1.5655 0.79852-1.9486 0.33604-0.17998 6.0088-0.23948 6.5946-0.06917 0.81851 0.23796 1.305 1.1832 1.0219 1.9856-0.11436 0.32414-2.7875 4.9709-3.0261 5.2604-0.41965 0.50911-1.2923 0.67969-1.8887 0.36915z" fill="#fff" stroke-width=".060942"/>
+</svg>
