@@ -10,7 +10,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 |:----------|:------------------------------------------------------------------------------|
 | -a        | Install all color versions                                                    |
 | -d        | Specify theme destination directory (**Default:** _$HOME/.local/share/icons_) |
-| -n        | Specify theme name (**Default:** _Sevş_)                                      |
+| -n        | Specify theme name (**Default:** _Sevi_)                                      |
 | -h        | Show this help                                                                |
 
 ## Licenses
