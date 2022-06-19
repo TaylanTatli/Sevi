@@ -13,6 +13,10 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 | -n        | Specify theme name (**Default:** _Sevi_)                                      |
 | -h        | Show this help                                                                |
 
+## Preview
+
+![preview](https://user-images.githubusercontent.com/754514/174491160-98ae0663-f971-4f90-b670-b8cbc262bd64.png)
+
 ## Licenses
 
 Sevi: Licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)  
