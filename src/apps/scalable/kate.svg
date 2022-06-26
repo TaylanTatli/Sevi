@@ -4,8 +4,8 @@
             <feGaussianBlur id="feGaussianBlur256" stdDeviation="1.1"/>
         </filter>
         <linearGradient id="linearGradient2070" x1="145" x2="200" y1="59" y2="4" gradientTransform="matrix(.26458 0 0 .26458 -37.173 .1322)" gradientUnits="userSpaceOnUse">
-            <stop id="stop259" stop-color="#06f" offset="0"/>
-            <stop id="stop263" stop-color="#2a7fff" offset="1"/>
+            <stop id="stop259" stop-color="#0669ff" offset="0"/>
+            <stop id="stop263" stop-color="#0cf" offset="1"/>
         </linearGradient>
         <linearGradient id="c" x1="61.163261" x2="64.927658" y1="105.1096" y2="109.0449" gradientTransform="matrix(.43115619 0 0 .44077084 -45.905583 -43.474049)" gradientUnits="userSpaceOnUse">
             <stop id="stop12" stop-color="#e6e6e6" offset="0"/>
