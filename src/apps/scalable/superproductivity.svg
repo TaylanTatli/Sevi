@@ -1,0 +1,25 @@
+<svg id="svg30" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs20">
+        <style id="style4" type="text/css"/>
+        <style id="style6" type="text/css"/>
+        <style id="style14" type="text/css"/>
+        <style id="style16" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26457812 0 0 .26457812 34.792025 -.13493498)" gradientUnits="userSpaceOnUse">
+            <stop id="stop1047" stop-color="#0b77d2" offset="0"/>
+            <stop id="stop1049" stop-color="#0b91ff" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect1055" transform="scale(.26457812)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+    <rect id="rect1045" x="1.1906021" y="1.1906021" width="14.551796" height="14.551796" ry="3.9686716" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width=".726098"/>
+    <g fill="#5e4aa6">
+        <circle id="circle10" cx="-311.36722" cy="-328.5" r="0" stroke-width=".26458"/>
+        <circle id="circle16" cx="-20.449221" cy="6.3115001" r="0" fill-rule="evenodd" stroke-width=".26458"/>
+        <circle id="circle41" cx="-334.41132" cy="-342.26688" r="0" stroke-width=".264578"/>
+        <circle id="circle43" cx="-43.494461" cy="-7.4551768" r="0" fill-rule="evenodd" stroke-width=".264578"/>
+    </g>
+    <style id="style22292" type="text/css">.st0{fill:#414042;}</style>
+    <path id="path4068" d="m2.3812033 6.7501236 6.6613758 5.6114904c2.2813319-4.1002682 2.2645119-4.0988682 6.5675299-12.023478-3.523516 4.4076568-3.509894 4.4170908-7.0226808 8.9182001z" fill="#fff" stroke="#007f00" stroke-width="0"/>
+</svg>
