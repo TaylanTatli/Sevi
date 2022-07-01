@@ -1,6 +1,6 @@
 ## Sevi Icon Theme
 
-Mix of Lüv and Reversal icons with some additions. 
+Mix of [Lüv](https://github.com/Nitrux/luv-icon-theme) and [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme) icons with some additions. 
 
 ## Install
 
