@@ -1,0 +1,25 @@
+<svg id="svg94" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs17">
+        <style id="style2" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur4" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient996" x1="4.5" x2="59.5" y1="59.5" y2="4.5" gradientTransform="translate(-4.4033348e-6)" gradientUnits="userSpaceOnUse">
+            <stop id="stop7" stop-color="#25b4da" offset="0"/>
+            <stop id="stop9" stop-color="#0a85c9" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect19" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <rect id="rect21" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient996)" stroke-linecap="round" stroke-width="2.7444"/>
+    <g id="g75" transform="translate(427.41 180.28)">
+        <path id="path59" class="D E" d="m-412.44-148.28c0-9.7891 7.8807-17.67 17.67-17.67s17.67 7.8807 17.67 17.67c0 9.7891-7.8807 17.67-17.67 17.67s-17.67-7.8807-17.67-17.67z" fill="none" fill-rule="evenodd" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2.426"/>
+        <path id="path61" class="B C" d="m-380.21-152.61c1.9003 0.64677 3.9622-0.36418 4.6097-2.2644s-0.36418-3.9622-2.2644-4.6097c-1.9003-0.64752-3.9622 0.36418-4.6097 2.2644-0.64752 1.9003 0.36418 3.9622 2.2644 4.6097z" fill="#fff"/>
+        <g id="g73" stroke="#fff" stroke-linecap="round" stroke-linejoin="round">
+            <path id="path63" class="D E" d="m-379.04-156.01-12.171 10.109" fill="none" fill-rule="evenodd" stroke-width="2.426"/>
+            <path id="path65" class="B C" d="m-387.13-135.14c-0.1617 1.9811 1.2943 3.7605 3.3154 3.9622 2.0219 0.16169 3.7605-1.2935 3.963-3.3154 0.16169-1.9811-1.2943-3.7605-3.3154-3.963-2.0219-0.1617-3.8005 1.2943-3.9622 3.3154z" fill="#fff" stroke-width=".017994"/>
+            <path id="path67" class="D E" d="m-383.53-134.82-7.6826-11.079" fill="none" fill-rule="evenodd" stroke-width="2.426"/>
+            <path id="path69" class="B C" d="m-394.24-143.92c1.0918 1.6985 3.3562 2.1836 5.014 1.0918 1.6985-1.0918 2.1836-3.3562 1.0918-5.014-1.0918-1.6985-3.3562-2.1836-5.014-1.0918-1.6985 1.051-2.1836 3.3154-1.0918 5.014zm-15.689-3.1946c-1.7386-1.011-3.9622-0.44502-4.9732 1.2535-1.011 1.7386-0.44503 3.9622 1.2535 4.9732 1.7386 1.011 3.9622 0.44503 4.9732-1.2535s0.44503-3.9222-1.2535-4.9732z" fill="#fff" stroke-width=".017994"/>
+            <path id="path71" class="D E" d="m-411.79-144 20.581-1.9003" fill="none" fill-rule="evenodd" stroke-width="2.426"/>
+        </g>
+    </g>
+</svg>
