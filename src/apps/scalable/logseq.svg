@@ -1,0 +1,79 @@
+<svg id="svg22" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs26">
+        <linearGradient id="b-3" x1="399.57" x2="399.57" y1="545.8" y2="517.8" gradientTransform="matrix(2.1429,0,0,2.1429,-963.59,-1143.3)" gradientUnits="userSpaceOnUse">
+            <stop id="stop855" stop-color="#3889e9" offset="0"/>
+            <stop id="stop857" stop-color="#5ea5fb" offset="1"/>
+        </linearGradient>
+        <style id="style860" type="text/css"/>
+        <style id="style867" type="text/css"/>
+        <style id="style869" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur871" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+            <stop id="stop874" stop-color="#002b34" offset="0"/>
+            <stop id="stop876" stop-color="#003f4d" offset="1"/>
+        </linearGradient>
+        <style id="style1026" type="text/css"/>
+        <style id="style1036" type="text/css"/>
+        <style id="style1038" type="text/css"/>
+        <style id="style1040" type="text/css"/>
+        <style id="style1042" type="text/css"/>
+        <style id="style1044" type="text/css"/>
+        <style id="style1046" type="text/css"/>
+        <style id="style1048" type="text/css"/>
+        <filter id="filter831" x="-.037097673" y="-.038286369" width="1.0741953" height="1.1005017" color-interpolation-filters="sRGB">
+            <feFlood id="feFlood821" flood-color="rgb(0,0,0)" flood-opacity=".498039" result="flood"/>
+            <feComposite id="feComposite823" in="flood" in2="SourceGraphic" operator="in" result="composite1"/>
+            <feGaussianBlur id="feGaussianBlur825" in="composite1" result="blur" stdDeviation="2"/>
+            <feOffset id="feOffset827" dx="0" dy="3" result="offset"/>
+            <feComposite id="feComposite829" in="SourceGraphic" in2="offset" result="composite2"/>
+        </filter>
+    </defs>
+    <rect id="rect881" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <rect id="rect883" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+    <g id="g915" transform="translate(-137.22,-35.254)" fill="#5e4aa6">
+        <g id="g897" image-rendering="optimizeSpeed">
+            <circle id="circle885" cx="-1248.6" cy="-1241.1" r="0"/>
+            <g id="g893" transform="matrix(3.7796,0,0,3.7796,-6.9956e-4,6.044e-4)" stroke-width=".26458">
+                <circle id="circle887" cx="-330.35001" cy="-328.38" r="0"/>
+                <circle id="circle889" cx="-330.35001" cy="-328.38" r="0"/>
+                <circle id="circle891" cx="-352.63" cy="-336.84" r="0"/>
+            </g>
+            <circle id="circle895" cx="-1248.6" cy="-1241.1" r="0"/>
+        </g>
+        <g id="g911" transform="translate(92.643 .35997)" image-rendering="optimizeSpeed">
+            <circle id="circle899" cx="-1248.6" cy="-1241.1" r="0"/>
+            <g id="g907" transform="matrix(3.7796,0,0,3.7796,-6.9956e-4,6.044e-4)" stroke-width=".26458">
+                <circle id="circle901" cx="-330.35001" cy="-328.38" r="0"/>
+                <circle id="circle903" cx="-330.35001" cy="-328.38" r="0"/>
+                <circle id="circle905" cx="-352.63" cy="-336.84" r="0"/>
+            </g>
+            <circle id="circle909" cx="-1248.6" cy="-1241.1" r="0"/>
+        </g>
+        <circle id="circle913" cx="-1152.9" cy="-1242.3" r="0"/>
+    </g>
+    <circle id="circle917" cx="-105.21" cy="-3.7102001" r="0" fill="url(#b-3)" stroke-width="1.5715"/>
+    <circle id="circle919" cx="-1179.3" cy="-1268.3" r="0" fill="#5e4aa6"/>
+    <circle id="circle921" cx="-1173.6" cy="-1229.2" r="0" fill="#5e4aa6" image-rendering="optimizeSpeed"/>
+    <g id="g927" transform="translate(171.85,7.9683)">
+        <g id="g925" transform="translate(1,1)"/>
+    </g>
+    <g id="g959" fill="#5e4aa6">
+        <circle id="circle935" cx="-1080" cy="-1247.9" r="0"/>
+        <circle id="circle937" cx="19.546" cy="17.545" r="0" fill-rule="evenodd"/>
+        <g id="g957" transform="translate(-66.881,-15.741)">
+            <circle id="circle939" cx="-1158.1" cy="-1246" r="0"/>
+            <circle id="circle941" cx="-1157.3" cy="-1267.7" r="0"/>
+            <circle id="circle943" cx="-57.756001" cy="-2.1829" r="0" fill-rule="evenodd"/>
+            <g id="g951" transform="translate(-72.958)">
+                <circle id="circle945" cx="-1248.7" cy="-1241.6" r="0"/>
+                <circle id="circle947" cx="-1140.3" cy="-1301.8" r="0"/>
+                <circle id="circle949" cx="-1158.1" cy="-1246" r="0"/>
+            </g>
+            <circle id="circle953" cx="-1230.3" cy="-1267.7" r="0"/>
+            <circle id="circle955" cx="-130.71001" cy="-2.1829" r="0" fill-rule="evenodd"/>
+        </g>
+    </g>
+    <path id="path699" transform="matrix(.27340459 0 0 .27340459 -27.015616 27.978824)" d="m222.00888-48.780565c-25.219 5.38045-18.4594 32.19075 6 26.96455 25.37-5.4208 19.013-32.301056-6-26.96455m-57 3.00463c-26.63399 5.50252-10.7167 45.70952 13 41.13732 25.299-4.8772 10.3867-45.96895-13-41.13732m61 39.91662c-9.4656 1.0146-18.6096 2.6104-27 7.4406-21.2762 12.2483-26.7723 41.2618-8.9599 59.080396 12.3814 12.385 30.9357 16.572 47.9599 14.869 7.02-0.701 13.752-2.876 20-6.088 4.904-2.522 9.159-5.667 12.896-9.745 28.299-30.884296-11.456-69.141296-44.896-65.556996z" fill="#80b6b6" filter="url(#filter831)"/>
+</svg>
