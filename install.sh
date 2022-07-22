@@ -69,7 +69,7 @@ install() {
     cp -r ${SRC_DIR}/src/status/{16,22,24,32,symbolic}                                     ${THEME_DIR}/status
 
     if [[ ${white} == 'true' ]]; then
-      sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/status/{16,22,24}/*
+      sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/status/{16,22,24}/*
     fi
 
     cp -r ${SRC_DIR}/links/{actions,apps,categories,devices,emblems,mimes,places,status} ${THEME_DIR}
@@ -97,8 +97,8 @@ install() {
     cp -r ${SRC_DIR}/src/status/{16,22,24,symbolic}                                    ${THEME_DIR}/status
 
     # Change icon color for dark theme
-    sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
-    sed -i "s/#363636/#dedede/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
+    sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/{actions,devices,places,status}/{16,22,24}/*
+    sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/{actions,apps,categories,emblems,devices,mimes,places,status}/symbolic/*
 
     cp -r ${SRC_DIR}/links/actions/{16,22,24,symbolic}                                 ${THEME_DIR}/actions
     cp -r ${SRC_DIR}/links/devices/{16,22,24,symbolic}                                 ${THEME_DIR}/devices
@@ -119,9 +119,6 @@ install() {
     ln -s ../../${name}${theme}/devices/scalable ${name}${theme}-dark/devices/scalable
     ln -s ../../${name}${theme}/places/48 ${name}${theme}-dark/places/48
     ln -s ../../${name}${theme}/status/32 ${name}${theme}-dark/status/32
-
-    cd ${THEME_DIR}
-    sed -i "s/Numix-Circle-Light/Numix-Circle/g" index.theme
   fi
 
   cd ${THEME_DIR}
