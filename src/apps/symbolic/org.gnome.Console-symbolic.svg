@@ -32,7 +32,7 @@
      inkscape:current-layer="svg6" />
   <path
      d="M 2,2 C 0.892,2 0,2.892 0,4 v 9 c 0,1.108 0.892,2 2,2 h 12 c 1.108,0 2,-0.892 2,-2 V 4 C 16,2.892 15.108,2 14,2 Z M 1.9788306,3.4950513 H 13.978831 c 0.554,0 0.519978,0.034985 0.519978,0.5889846 v 9.0000001 c 0,0.554 0.05519,0.418805 -0.498809,0.418805 H 2 c -0.554,0 -0.4978922,0.135195 -0.4978922,-0.418805 V 4.0840359 c 0,-0.554 -0.077277,-0.5889846 0.4767228,-0.5889846 z"
-     fill="#363636"
+     fill="#222222"
      id="path4"
      sodipodi:nodetypes="ssssssssssssssssss" />
   <g
@@ -43,9 +43,9 @@
       <g
          id="g6043"
          transform="rotate(36.307459,4.9923951,5.5297563)"
-         style="fill:#363636;fill-opacity:1;stroke:none">
+         style="fill:#222222;fill-opacity:1;stroke:none">
         <rect
-           style="fill:#363636;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+           style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
            id="rect4881"
            width="5.6296005"
            height="1.3047627"
@@ -54,7 +54,7 @@
            ry="0.65238136" />
       </g>
       <rect
-         style="fill:#363636;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
          id="rect4881-3"
          width="5.6296005"
          height="1.3047627"
@@ -66,7 +66,7 @@
          transform="rotate(-38.630575)" />
     </g>
     <rect
-       style="fill:#363636;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.02341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+       style="fill:#222222;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.02341;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
        id="rect4881-3-6"
        width="3.8089345"
        height="1.0070662"

@@ -328,40 +328,40 @@
      fill="none"
      stroke="#77767b"
      stroke-width="0.233681"
-     style="fill:#000000;fill-opacity:1;stroke:#363636;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#222222;stroke-opacity:1"
      d="M 8.9264837,12.107583 8.3386665,14.665421"
      id="path882" />
   <path
-     style="fill:#363636;fill-opacity:1;stroke-width:0.871944"
+     style="fill:#222222;fill-opacity:1;stroke-width:0.871944"
      d="M 8.3579661,1.1256118 C 6.3336407,1.432224 4.5194754,2.1055427 3.6593811,4.4585572 2.8829922,7.3752095 3.9860163,8.7817053 5.5162218,11.041096 l 0.6878643,1.417712 H 7.1354236 C 6.5564234,10.745463 5.2303774,7.7754463 5.2303774,6.2834719 c 0,-4.3752141 3.1037229,-5.14263 3.1275887,-5.1578601 z m 4.513e-4,0 c 0.00823,0.022077 0.651676,2.0351863 0.6512054,5.1578601 0,1.6478187 0.119776,4.4919791 -0.1033596,6.1753361 H 10.090597 C 11.520229,9.8831177 12.212035,7.4272126 12.116969,5.4249524 12.046527,3.9413232 11.669221,2.7067664 10.184137,1.8571076 9.6760321,1.5664069 9.0707438,1.1256118 8.358427,1.1256118 Z"
      id="path886" />
   <path
      fill="none"
      stroke="#c0bfbc"
      stroke-width="0.233681"
-     style="fill:#000000;fill-opacity:1;stroke:#363636;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#222222;stroke-opacity:1"
      d="M 7.1456099,12.125354 7.7334272,14.62489"
      id="path888" />
   <path
      fill="none"
      stroke="#9a9996"
      stroke-width="0.233681"
-     style="fill:#000000;fill-opacity:1;stroke:#363636;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#222222;stroke-opacity:1"
      d="m 5.5564911,10.927793 1.2461704,2.453612"
      id="path890" />
   <path
-     style="fill:#363636;fill-opacity:1;stroke-width:0.820445"
+     style="fill:#222222;fill-opacity:1;stroke-width:0.820445"
      d="m 6.2876545,11.950431 v 0.261947 c 0,0 0,0.261946 0.1255658,0.261946 H 9.9204 c 0.125499,0 0.125499,-0.261946 0.125499,-0.261946 v -0.261947 z m 0,0"
      id="path892" />
   <path
      fill="none"
      stroke="#77767b"
      stroke-width="0.233681"
-     style="fill:#000000;fill-opacity:1;stroke:#363636;stroke-opacity:1"
+     style="fill:#000000;fill-opacity:1;stroke:#222222;stroke-opacity:1"
      d="M 10.690644,11.008097 9.4954826,13.391369"
      id="path894" />
   <path
-     style="fill:#363636;fill-opacity:1;stroke-width:0.718472"
+     style="fill:#222222;fill-opacity:1;stroke-width:0.718472"
      d="m 9.6065199,13.330751 v 1.233979 a 0.43161742,0.508815 0 0 1 -0.4325425,0.509905 h -2.095 A 0.43161742,0.508815 0 0 1 6.6464346,14.56473 v -1.233979 z m 0,0"
      id="path896" />
 </svg>

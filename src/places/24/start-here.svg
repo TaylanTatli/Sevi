@@ -22,7 +22,7 @@
        type="text/css"
        id="current-color-scheme">
     .ColorScheme-Text {
-    color:#4d4d4d;
+    color:#222222;
     }
     </style>
   </defs>
@@ -101,7 +101,7 @@
      transform="translate(0,-1030.3622)">
     <path
        inkscape:connector-curvature="0"
-       style="display:inline;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.49998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="display:inline;fill:#222222;fill-opacity:1;stroke:none;stroke-width:1.49998px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 4,1032.3622 v 15 1.5 l 1.5,1.5 13.500001,-9 -7.500001,-4.5 h -1.499999 l 5.510745,3.3047 L 5.5,1046.4247 v -12.5625 z"
        id="path4810"
        inkscape:export-filename="C:\Users\DeViL\Desktop\favicon.png"
