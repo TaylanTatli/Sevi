@@ -1,6 +1,6 @@
 ## Sevi Icon Theme
 
-Mix of [Lüv](https://github.com/Nitrux/luv-icon-theme) and [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme) icons with some additions. 
+A colorful design icon theme based on [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme). 
 
 ## Install
 
@@ -20,5 +20,4 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 ## Licenses
 
 Sevi: Licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)  
-Lüv: Licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)  
 Reversal: Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)

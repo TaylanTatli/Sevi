@@ -13,7 +13,7 @@ fi
 SRC_DIR=$(cd $(dirname $0) && pwd)
 
 THEME_NAME=Sevi
-THEME_VARIANTS=('-blue' '-cutefish' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
+THEME_VARIANTS=('-blue' '-red' '-pink' '-purple' '-green' '-orange' '-brown' '-grey' '-black')
 COLOR_VARIANTS=('' '-dark')
 
 usage() {
@@ -24,7 +24,6 @@ usage() {
   printf "  %-25s%s\n" "-c, --circle" "Install circle folder version"
   printf "  %-25s%s\n" "-w, --white" "Install white panel icon color version"
   printf "  %-25s%s\n" "-a, --all" "Install all color folder versions"
-  printf "  %-25s%s\n" "-cutefish" "Cutefish folder version"
   printf "  %-25s%s\n" "-red" "Red color folder version"
   printf "  %-25s%s\n" "-pink" "Pink color folder version"
   printf "  %-25s%s\n" "-purple" "Purple color folder version"
@@ -185,9 +184,6 @@ while [[ $# -gt 0 ]]; do
       ;;
     -red)
       theme="-red"
-      ;;
-    -cutefish)
-      theme="-cutefish"
       ;;
     -h|--help)
       usage
