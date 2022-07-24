@@ -213,6 +213,7 @@ done
 }
 
 if [[ "${all}" == 'true' ]]; then
+  install_theme
   install_all
   else
   install_theme
