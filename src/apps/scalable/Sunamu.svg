@@ -1,0 +1,35 @@
+<svg id="svg27" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs17">
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient19559" x1="-11.515379" x2="-11.515379" y1="-1.3827794" y2="3.6710861" gradientTransform="matrix(1.1,0,0,1.1,20.428344,11.24946)" gradientUnits="userSpaceOnUse">
+            <stop id="stop19553" stop-color="#008dbd" offset="0"/>
+            <stop id="stop19555" stop-color="#00578f" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient21499" x1="-8.6682987" x2="-8.6682987" y1="-3.1190734" y2="-8.1729126" gradientTransform="matrix(1.1,0,0,1.1,20.428344,11.24946)" gradientUnits="userSpaceOnUse">
+            <stop id="stop21493" stop-color="#05c9ff" offset="0"/>
+            <stop id="stop21495" stop-color="#33d6ff" offset="1"/>
+        </linearGradient>
+        <linearGradient id="linearGradient27004" x1="1.1906021" x2="15.742398" y1="1.1906021" y2="15.742398" gradientUnits="userSpaceOnUse">
+            <stop id="stop26998" stop-color="#00acea" offset=".51968771"/>
+            <stop id="stop27000" stop-color="#005f9e" offset="1"/>
+        </linearGradient>
+    </defs>
+    <g fill="#5e4aa6">
+        <g id="g30" transform="scale(.26457812)">
+            <circle id="circle24" cx="-1248.7" cy="-1241.6" r="0"/>
+            <circle id="circle26" cx="-1140.3" cy="-1301.8" r="0"/>
+            <circle id="circle28" cx="-1158.1" cy="-1246" r="0"/>
+        </g>
+        <circle id="circle36" cx="-306.19626" cy="-335.40567" r="0" stroke-width=".264578"/>
+        <circle id="circle38" cx="-15.280974" cy="-.57754755" r="0" fill-rule="evenodd" stroke-width=".264578"/>
+    </g>
+    <g>
+        <rect id="rect1055" transform="scale(.26457812)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+        <rect id="rect1045" x="1.1906021" y="1.1906021" width="14.551796" height="14.551796" ry="3.9686716" fill="url(#linearGradient27004)" stroke-linecap="round" stroke-width=".726098"/>
+        <path id="path3477" d="m7.5797499 2.2592491v5.168e-4c-0.6999986 0.0178404-1.2619137 0.5833403-1.2619137 1.2784498 0 0.1623105 0.030418 0.3175876 0.086298 0.4604279h-0.4955672c-0.7157737 0-1.2960195 0.5725938-1.2960195 1.2789665 0 0.7063435 0.5802458 1.2789666 1.2960195 1.2789666h2.557933v-3.2059428h3.410577v2.2737183h-2.2737179v0.9322245h1.6257089c0.009226 0.6984856 0.586008 1.2619136 1.296019 1.2619136 0.0057 0 0.011353 5.82e-5 0.017053 0h3.200258v-2.6592169c0-1.1471528-0.482539-2.1767638-1.255712-2.9000243h-6.9069361z" fill="url(#linearGradient21499)" stroke-width=".291036"/>
+        <path id="path3479" d="m1.1906016 9.7284136v2.0453134c0 1.529382 0.8567599 2.850817 2.1181752 3.513928h8.2954542c0.710011 0 1.286765-0.563429 1.29602-1.261914h1.500654c0.315276 0 0.604191-0.110897 0.828873-0.295583 0.211106-0.373403 0.363216-0.784603 0.444409-1.221607-0.113113-0.592497-0.640009-1.040743-1.273282-1.040743h-3.530981c0.055879-0.14287 0.086297-0.298117 0.086297-0.460428 0-0.706372-0.580275-1.2789664-1.2960189-1.2789664h-0.056843v1.5802344c0 1.256227-1.0174634 2.273718-2.2737182 2.273718-1.2562263 0-2.2737183-1.017491-2.2737183-2.273718 0-0.614114 0.2433652-1.171183 0.6387081-1.5802344h-4.5040291z" fill="url(#linearGradient19559)" stroke-width=".291036"/>
+        <path id="path26982" d="m8.4664995 3.3506338h3.4105775v2.2737182h-2.2737175v5.684295c0 1.256225-1.017467 2.273719-2.273719 2.273719-1.25622 0-2.273718-1.017494-2.273718-2.273719 0-0.614112 0.243368-1.171183 0.638708-1.5802335 0.413386-0.4276465 0.992931-0.6934841 1.63501-0.6934841 0.414958 0 0.801502 0.1193892 1.136859 0.3126363v-2.7909892z" fill="#fbfdfb" fill-rule="evenodd" stroke-opacity=".1" stroke-width=".482682"/>
+    </g>
+</svg>
