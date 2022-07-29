@@ -1,0 +1,39 @@
+<svg id="svg1591" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs1559">
+        <style id="style1535" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1537" stdDeviation="0.61875"/>
+        </filter>
+        <style id="style1545" type="text/css"/>
+        <style id="style1547" type="text/css"/>
+        <style id="style1549" type="text/css"/>
+        <style id="style1551" type="text/css"/>
+        <style id="style1553" type="text/css"/>
+        <style id="style1555" type="text/css"/>
+        <style id="style1557" type="text/css"/>
+        <linearGradient id="linearGradient8172" x1="4.5" x2="59.5" y1="32" y2="32" gradientUnits="userSpaceOnUse">
+            <stop id="stop6451" stop-color="#fff" offset="0"/>
+            <stop id="stop6459" stop-color="#fff" offset=".5"/>
+            <stop id="stop6461" stop-color="#d6d6d6" offset=".5"/>
+            <stop id="stop6463" stop-color="#fff" offset=".62736636"/>
+            <stop id="stop6453" stop-color="#fff" offset="1"/>
+        </linearGradient>
+    </defs>
+    <circle id="circle1561" cx="-1124.8" cy="-1279.3" r="0" fill="#5e4aa6"/>
+    <g id="g1571" transform="matrix(3.7796,0,0,3.7796,123.83,-38.184)" fill="#5e4aa6" stroke-width=".26458">
+        <circle id="circle1563" cx="-299.02" cy="-338.77" r="0"/>
+        <circle id="circle1565" cx="-8.1062" cy="-3.9487" r="0" fill-rule="evenodd"/>
+        <circle id="circle1567" cx="-278.25" cy="-357.69" r="0"/>
+        <circle id="circle1569" cx="12.663" cy="-22.859" r="0" fill-rule="evenodd"/>
+    </g>
+    <g id="g1589">
+        <rect id="rect1573" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+        <rect id="rect1575" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient8172)" stroke-linecap="round" stroke-width="2.7444"/>
+        <g id="g8298" transform="matrix(1.0798606,0,0,1.0798606,-3.211431,-2.1658296)" fill="#bebebe" stroke-width=".103181">
+            <path id="path3635" d="m38.049864 37.994963 14.599368-0.03089c0.134108 3e-3 0.256933-0.02286 0.37226-0.06791 0.384422-0.150192 0.655702-0.533256 0.653373-0.964492 6.62e-4 -0.565343-0.467073-1.025327-1.032319-1.026029l-14.599367 0.03089c-0.565237-7.06e-4 -1.025014 0.466964-1.025637 1.032401-6.24e-4 0.565438 0.467038 1.025229 1.032318 1.026029z"/>
+            <path id="path3639" d="m52.642467 43.905592-14.59933 0.03099c-0.565237-7.05e-4 -1.025013 0.466965-1.025635 1.032403-6.25e-4 0.565439 0.467073 1.025326 1.032318 1.026028l14.599369-0.03089c0.134108 3e-3 0.256933-0.02286 0.37226-0.06791 0.384422-0.150192 0.659457-0.523646 0.653372-0.964495 6.25e-4 -0.565438-0.467073-1.025325-1.032356-1.026123z"/>
+            <path id="path5001" d="m37.64942 40.007893c-0.37635 0.155548-0.645687 0.527814-0.643303 0.96584 0.0089 0.561584 0.468886 1.024284 1.043747 1.02123l5.066809-0.03569 4.89349-0.0366c0.134108 3e-3 0.256513-0.02474 0.371845-0.06978 0.39404-0.153923 0.655443-0.533113 0.649358-0.973962-0.0089-0.561583-0.466244-1.025227-1.041099-1.022173l-5.553704 0.04205-0.05331 0.0011-4.354998 0.03274c-0.105287 0.0017-0.206118 0.01687-0.302078 0.04793-0.02599 0.0084-0.05167 0.01697-0.07676 0.02734z"/>
+        </g>
+        <text id="text8235" x="6.7241497" y="47.502373" fill="#000000" font-family="Verdana" font-size="27.226px" font-weight="bold" stroke-width=".68065" style="line-height:1.25" xml:space="preserve"><tspan id="tspan8233" x="6.7241497" y="47.502373" fill="#000000" font-family="Verdana" font-weight="bold" stroke-width=".68065">N</tspan></text>
+    </g>
+</svg>
