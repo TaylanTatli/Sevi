@@ -15,9 +15,11 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
 ## Preview
 
-![preview](https://user-images.githubusercontent.com/754514/181782228-da3fc1db-745e-4962-83ef-b185697b0c71.png)
+![Icons Preview](https://user-images.githubusercontent.com/754514/181782228-da3fc1db-745e-4962-83ef-b185697b0c71.png)
+![Folder Colors](https://user-images.githubusercontent.com/754514/181847179-1ded05af-5ab3-4767-b9f5-a5171f1de08b.png)
 
 ## Licenses
+
 
 Sevi: Licensed under the [Creative Commons Attribution-ShareAlike International 4.0 License](https://creativecommons.org/licenses/by-sa/4.0/)  
 Reversal: Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
