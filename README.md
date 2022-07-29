@@ -15,7 +15,7 @@ Usage:  `./install.sh`  **[OPTIONS...]** **[COLOR VARIANTS...]**
 
 ## Preview
 
-![preview](https://user-images.githubusercontent.com/754514/174491160-98ae0663-f971-4f90-b670-b8cbc262bd64.png)
+![preview](https://user-images.githubusercontent.com/754514/181782228-da3fc1db-745e-4962-83ef-b185697b0c71.png)
 
 ## Licenses
 
