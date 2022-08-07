@@ -1,0 +1,61 @@
+<svg id="svg88" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs34">
+        <style id="style4" type="text/css"/>
+        <style id="style6" type="text/css"/>
+        <style id="style16" type="text/css"/>
+        <style id="style18" type="text/css"/>
+        <style id="style20" type="text/css"/>
+        <style id="style14" type="text/css"/>
+        <style id="style16-7" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+        </filter>
+    </defs>
+    <g fill="#5e4aa6">
+        <g id="g44">
+            <circle id="circle36" cx="-1248.7" cy="-1241.6" r="0"/>
+            <circle id="circle38" cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
+            <circle id="circle40" cx="-1248.7" cy="-1241.6" r="0"/>
+            <circle id="circle42" cx="-149.15" cy="23.855" r="0" fill-rule="evenodd"/>
+        </g>
+        <g id="g80" transform="matrix(3.7796 0 0 3.7796 95.458 -72.949)" stroke-width=".26458">
+            <g id="g58" transform="translate(-.0272 .0065001)">
+                <circle id="circle50" cx="-330.35" cy="-328.38" r="0"/>
+                <circle id="circle52" cx="-312.11" cy="-326.25" r="0"/>
+                <circle id="circle54" cx="-306.02" cy="-333.07" r="0"/>
+                <circle id="circle56" cx="-308.84" cy="-326.01" r="0"/>
+            </g>
+            <g id="g68" transform="translate(-.0272 .0065001)">
+                <circle id="circle60" cx="-330.35" cy="-328.38" r="0"/>
+                <circle id="circle62" cx="-312.11" cy="-326.25" r="0"/>
+                <circle id="circle64" cx="-306.02" cy="-333.07" r="0"/>
+                <circle id="circle66" cx="-308.84" cy="-326.01" r="0"/>
+            </g>
+            <g id="g78" transform="translate(-.02705 .0064503)">
+                <circle id="circle70" cx="-330.35" cy="-328.38" r="0"/>
+                <circle id="circle72" cx="-312.11" cy="-326.25" r="0"/>
+                <circle id="circle74" cx="-306.02" cy="-333.07" r="0"/>
+                <circle id="circle76" cx="-308.84" cy="-326.01" r="0"/>
+            </g>
+        </g>
+        <circle id="circle41" cx="-1248.7" cy="-1241.6" r="0"/>
+        <circle id="circle43" cx="-149.14999" cy="23.855" r="0" fill-rule="evenodd"/>
+    </g>
+    <g stroke-linecap="round" stroke-width="2.74436">
+        <rect id="rect1055" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3"/>
+        <path id="rect7016" d="m19.5 4.5c-8.309991 0-15 6.690009-15 15v25c0 8.309991 6.690009 15 15 15h12.5v-55h-12.5z" fill="#33d17a"/>
+        <path id="rect6875" d="m32 4.4999997v55h12.5c8.309991 0 15-6.690009 15-15v-25c0-8.309991-6.690009-15-15-15z" fill="#deddda"/>
+    </g>
+    <g id="g7116" transform="matrix(.63518115 0 0 .63518115 111.29855 48.17937)" fill="none" stroke-width="6">
+        <path id="path5457" d="m-147.49136-15.472057h-9v-22h9c6.074 0 11 4.926 11 11s-4.926 11-11 11z" stroke="#26a269"/>
+        <path id="path5459" d="m-147.49136-13.472057h-9v-22h9c6.074 0 11 4.926 11 11s-4.926 11-11 11z" stroke="#fff"/>
+    </g>
+    <g id="g5451" transform="matrix(.52777778 0 0 .52777778 .09722203 -11.277778)" fill="#77767b">
+        <path id="path5439" d="m86 85h18v3h-18z"/>
+        <path id="path5441" d="m86 100v-15h3v15zm15 0v-15h3v15z"/>
+        <path id="path5443" d="m86 95h18v3h-18zm-3-16h23v3h-23zm0-15h23v3h-23zm0 7h19v3h-19z"/>
+        <path id="path5445" d="m99 80v-8h3v8zm-12.45-0.387 3.884-14.492 2.898 0.777-3.883 14.489zm-17.55 5.387h10v3h-10z"/>
+        <path id="path5447" d="m69 100v-15h3v15zm9-2v-13h3v13z"/>
+        <path id="path5449" d="m69 95h10v3h-10zm0-16h11v3h-11zm2-5h7v3h-7zm-4-5h15v3h-15zm2-5h11v3h-11z"/>
+    </g>
+</svg>
