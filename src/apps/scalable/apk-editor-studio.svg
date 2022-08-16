@@ -1,0 +1,73 @@
+<svg id="svg63" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs39">
+        <style id="style14" type="text/css"/>
+        <style id="style16" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.50999931)" gradientUnits="userSpaceOnUse">
+            <stop id="stop1049" stop-color="#80b436" offset="0"/>
+            <stop id="stop1047" stop-color="#b2cf42" offset="1"/>
+        </linearGradient>
+    </defs>
+    <circle id="circle41" cx="-1248.7" cy="-1241.6" r="0" fill="#5e4aa6"/>
+    <circle id="circle43" cx="-149.15" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+    <rect id="rect1055" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+    <rect id="rect1045" x="4.5000019" y="4.5000019" width="54.999996" height="54.999996" ry="14.999999" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.74436"/>
+    <g stroke-width=".953488">
+        <path id="path1836" d="m37.244186 46.302325v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1834" d="m28.662791 46.302325v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1832" d="m20.081396 46.302325v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1828" d="m45.825581 37.72093v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1826" d="m37.244186 37.72093v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1824" d="m28.662791 37.72093v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1822" d="m20.081396 37.72093v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1820" d="m11.500001 37.72093v6.674418h6.674419v-6.674418z" opacity=".2"/>
+        <path id="path1818" d="m45.825581 29.139535v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1816" d="m37.244186 29.139535v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1814" d="m28.662791 29.139535v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1812" d="m20.081396 29.139535v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1810" d="m11.500001 29.139535v6.674418h6.674419v-6.674418z" opacity=".2"/>
+        <path id="path1808" d="m45.825581 20.55814v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1806" d="m37.244186 20.55814v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1804" d="m28.662791 20.55814v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1802" d="m20.081396 20.55814v6.674418h6.674418v-6.674418z" opacity=".2"/>
+        <path id="path1800" d="m11.500001 20.55814v6.674418h6.674419v-6.674418z" opacity=".2"/>
+        <path id="path1796" d="m37.244186 11.976745v6.674419h6.674418v-6.674419z" opacity=".2"/>
+        <path id="path1794" d="m28.662791 11.976745v6.674419h6.674418v-6.674419z" opacity=".2"/>
+        <path id="path1792" d="m20.081396 11.976745v6.674419h6.674418v-6.674419z" opacity=".2"/>
+        <path id="path1838" d="m45.825581 46.302325v6.674418c6.699062 0 6.674418-6.674418 6.674418-6.674418z" opacity=".2"/>
+    </g>
+    <g fill="#f4f7e2" stroke-width=".953488">
+        <path id="path1788" d="m45.825581 45.348836v6.674418c6.699062 0 6.674418-6.674418 6.674418-6.674418z"/>
+        <path id="path1786" d="m37.244186 45.348836v6.674418h6.674418v-6.674418z"/>
+        <path id="path1784" d="m28.662791 45.348836v6.674418h6.674418v-6.674418z"/>
+        <path id="path1782" d="m20.081396 45.348836v6.674418h6.674418v-6.674418z"/>
+        <path id="path1778" d="m45.825581 36.767442v6.674418h6.674418v-6.674418z"/>
+        <path id="path1776" d="m37.244186 36.767442v6.674418h6.674418v-6.674418z"/>
+        <path id="path1774" d="m28.662791 36.767442v6.674418h6.674418v-6.674418z"/>
+        <path id="path1772" d="m20.081396 36.767442v6.674418h6.674418v-6.674418z"/>
+        <path id="path1770" d="m11.500001 36.767442v6.674418h6.674419v-6.674418z"/>
+        <path id="path1768" d="m45.825581 28.186047v6.674418h6.674418v-6.674418z"/>
+        <path id="path1766" d="m37.244186 28.186047v6.674418h6.674418v-6.674418z"/>
+        <path id="path1764" d="m28.662791 28.186047v6.674418h6.674418v-6.674418z"/>
+        <path id="path1762" d="m20.081396 28.186047v6.674418h6.674418v-6.674418z"/>
+        <path id="path1760" d="m11.500001 28.186047v6.674418h6.674419v-6.674418z"/>
+        <path id="path1758" d="m45.825581 19.604652v6.674418h6.674418v-6.674418z"/>
+        <path id="path1756" d="m37.244186 19.604652v6.674418h6.674418v-6.674418z"/>
+        <path id="path1754" d="m28.662791 19.604652v6.674418h6.674418v-6.674418z"/>
+        <path id="path1752" d="m20.081396 19.604652v6.674418h6.674418v-6.674418z"/>
+        <path id="path1750" d="m11.500001 19.604652v6.674418h6.674419v-6.674418z"/>
+        <path id="path1746" d="m37.244186 11.023257v6.674418h6.674418v-6.674418z"/>
+        <path id="path1744" d="m28.662791 11.023257v6.674418h6.674418v-6.674418z"/>
+        <path id="path1742" d="m20.081396 11.023257v6.674418h6.674418v-6.674418z"/>
+    </g>
+    <g stroke-width=".953488">
+        <path id="path511" d="m18.17442 11.976745c-6.699062 0-6.674419 6.674419-6.674419 6.674419h6.674419z" opacity=".2"/>
+        <path id="path513" d="m18.17442 11.023257c-6.699062 0-6.674419 6.674418-6.674419 6.674418h6.674419z" fill="#f4f7e2"/>
+        <path id="path1844" d="m45.825581 11.976745c6.699062 0 6.674419 6.674419 6.674419 6.674419h-6.674419z" opacity=".2"/>
+        <path id="path1846" d="m45.825581 11.023257c6.699062 0 6.674419 6.674418 6.674419 6.674418h-6.674419z" fill="#f4f7e2"/>
+        <path id="path1854" d="m18.17442 46.302325v6.674418c-6.699062 0-6.674418-6.674418-6.674418-6.674418z" opacity=".2"/>
+        <path id="path1856" d="m18.17442 45.348836v6.674418c-6.699062 0-6.674418-6.674418-6.674418-6.674418z" fill="#f4f7e2"/>
+    </g>
+</svg>
