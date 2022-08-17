@@ -1,0 +1,17 @@
+<svg id="svg336" width="64" height="64" version="1.1" viewBox="0 0 16.933 16.933" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs320">
+        <filter id="filter1057-2" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur310" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient1053-7" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.26459 0 0 .26459 34.793 -.13496)" gradientUnits="userSpaceOnUse">
+            <stop id="stop313" stop-color="#ff8585" offset="0"/>
+            <stop id="stop317" stop-color="#ffa3a3" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect324" transform="matrix(.26459 0 0 .26459 0 -6.0294e-5)" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-2)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <rect id="rect326" x="1.1909997" y="1.1906" width="14.552" height="14.552" ry="3.9688001" fill="url(#linearGradient1053-7)" stroke-linecap="round" stroke-width=".72612"/>
+    <g id="g4477" transform="matrix(.42775294 0 0 .42775294 -9.6682874 .95301993)" fill="#f9f9f9">
+        <ellipse id="circle2358" cx="41.141899" cy="18.702564" rx="2.6457813" ry="2.2849929" fill-rule="evenodd" stroke-width=".106214"/>
+        <path id="path3917" d="m40.964813 7.3595088v0.0067c-4.7622 0.08493-9.389319 3.3522732-9.856568 8.7667342h3.439515c0.195485-3.768266 3.436201-5.750738 6.676464-5.639338v-0.0088c3.151727 1.05e-4 6.226784 1.975742 6.417053 5.643472h0.0031c0.2176 2.423102-0.02584 8.849006-0.02584 11.642471h6.06416v-2.910359l-2.601907 0.01007v-8.742179c-0.341924-5.522654-5.263698-8.8003242-10.11598-8.7688042z"/>
+    </g>
+</svg>
