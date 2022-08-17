@@ -1,0 +1,27 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <defs id="defs278">
+        <style id="style266" type="text/css"/>
+        <style id="style268" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+        </filter>
+        <linearGradient id="linearGradient459" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.97345133 0 0 .97345133 128.85841 .35309929)" gradientUnits="userSpaceOnUse">
+            <stop id="stop273" stop-color="#ffcb54" offset="0"/>
+            <stop id="stop275" stop-color="#ffb200" offset="1"/>
+        </linearGradient>
+    </defs>
+    <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+    <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+    <rect id="rect457" x="5.2300892" y="5.2300892" width="53.539822" height="53.539822" ry="14.278677" fill="url(#linearGradient459)" stroke="#333" stroke-linecap="round" stroke-width="1.46018"/>
+    <g>
+        <path id="rect282" d="m4.5 44.498047v0.001953c0 8.309984 6.690017 15 15 15h25c8.309984 0 15-6.690016 15-15v-2e-3s-1.420024-0.564722-1.462891 0c-0.04287 0.564722-0.239853 0.99547-0.5 1.4375-0.698658 1.187114-1.992266 2.410047-3.705078 3.503906-0.498134 0.318124-1.40578 0.779078-1.779297 0.904297-0.324062 0.10864-0.72519 0.1359-0.917968 0.0625-0.255421-0.09724-0.420875-0.340584-0.421875-0.625-1e-3 -0.320676 0.138698-0.566283 0.623047-1.085938 0.886279-0.950891 1.320751-1.733166 1.484374-2.671874 0.05784-0.331773 0.04499-1.061348-0.02148-1.300782l-0.03516-0.132812-0.05273-0.0918z" fill="#333"/>
+        <text id="text1173" x="13.97313" y="54.618404" fill="#ffbb1f" font-family="'Input Sans Compressed'" font-size="7.86013px" stroke-width=".196503" style="line-height:1.25" xml:space="preserve"><tspan id="tspan1171" x="13.97313" y="54.618404" fill="#ffbb1f" font-family="'Franklin Gothic Medium'" stroke-width=".196503">SUBTITLES</tspan></text>
+        <g id="g3463" transform="matrix(2.436576,0,0,2.436576,-184.42588,11.86502)" fill="#333" stroke-width=".0303692">
+            <path id="path3457" d="m80.601049 5.7020943 0.0087-0.311341h16.429768v0.607384l-16.447083 0.0152z"/>
+            <path id="path3455" d="m80.614759 7.9367103c-0.01113-0.01113-0.02025-0.153168-0.02025-0.315628 0-0.241336 0.0088-0.298756 0.04803-0.313817 0.02642-0.01014 3.713553-0.01843 8.193627-0.01843 6.294966 0 8.15387 0.0083 8.182034 0.03645 0.04922 0.04922 0.04922 0.546018 0 0.595237-0.02815 0.02816-1.893242 0.03645-8.209825 0.03645-4.495361 0-8.182493-0.0091-8.193628-0.02025z"/>
+            <path id="path3453" d="m80.631319 9.8444683c-0.02865-0.01817-0.03677-0.105514-0.03036-0.326004l0.0088-0.301184h16.429774l0.0089 0.288014c0.0075 0.244612 8.4e-4 0.293807-0.04377 0.326469-0.04213 0.03081-1.672257 0.03836-8.193343 0.03799-4.477414-2.44e-4 -8.158357-0.01163-8.179875-0.02529z"/>
+            <path id="path3451" d="m85.11954 11.525344v-0.319117l7.394917 0.0154v0.607385l-7.394917 0.0154z"/>
+        </g>
+    </g>
+</svg>
