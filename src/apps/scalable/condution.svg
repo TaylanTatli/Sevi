@@ -1,0 +1,23 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs278">
+        <style id="style266" type="text/css"/>
+        <style id="style268" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+        </filter>
+        <radialGradient id="radialGradient1859" cx="32" cy="32" r="20" gradientTransform="matrix(.9047619 0 0 .9047619 3.047619 3.047619)" gradientUnits="userSpaceOnUse">
+            <stop id="stop1853" stop-color="#3e7e96" offset="0"/>
+            <stop id="stop1855" stop-color="#2b5977" offset="1"/>
+        </radialGradient>
+    </defs>
+    <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <g stroke-linecap="round" stroke-width="2.7444">
+        <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#e2e6e7"/>
+        <rect id="rect516" x="6" y="6" width="52" height="52" ry="14.181818" fill="#444f60"/>
+        <rect id="rect1634" x="13" y="13" width="38" height="38" ry="10.363636" fill="#f2f4fa"/>
+        <rect id="rect1851" x="13.904762" y="13.904762" width="36.190475" height="36.190475" ry="9.8701286" fill="url(#radialGradient1859)"/>
+    </g>
+    <g id="g3760" transform="matrix(.12060136 0 0 .12060136 1.1260908 1.1743217)" fill="#f2f4fa" stroke-width="8.29173" data-name="Layer 6">
+        <path id="polyline3758" d="m336.36914 185.07422a13.5 13.5 0 0 0-12.79102 4.31445l-91.50976 103.9375-44.37109-43.10937a13.5 13.5 0 0 0-19.08985 0.27539 13.5 13.5 0 0 0 0.27539 19.08984l54.53906 52.99024a13.50135 13.50135 0 0 0 19.54102-0.76172l100.87891-114.58008a13.5 13.5 0 0 0-1.21094-19.05274 13.5 13.5 0 0 0-6.26172-3.10351z"/>
+    </g>
+</svg>
