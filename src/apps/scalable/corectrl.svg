@@ -1,0 +1,63 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+    <defs id="defs278">
+        <style id="style266" type="text/css"/>
+        <style id="style268" type="text/css"/>
+        <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+            <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+        </filter>
+        <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+    </defs>
+    <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+    <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#4f4f4f" stroke-linecap="round" stroke-width="2.7444"/>
+    <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+    <g id="g204" fill-rule="evenodd" opacity=".5">
+        <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6"/>
+        <g id="g554" transform="matrix(.94594592 0 0 .94594592 73.202721 26.960213)" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.41421">
+            <g id="g868" transform="matrix(1.9981602,0,0,1.9981602,-68.911827,-28.144627)">
+                <path id="path8" d="M 6.9419614,7.4930939 6.9375,15 h 1 V 7.4930939 Z" fill="#fff" stroke-width=".705852"/>
+                <path id="path10" d="m6.93371 15 0.00379 11h1c4.328e-4 -3.208333-0.0014-7.791667 0-11z" fill="#ff4500" stroke-width=".553818"/>
+                <path id="path828" d="m3.9280788 12.497698h7.0121832v3.002762h-7.0121832z" fill="#ff4500" fill-rule="evenodd" stroke-width="1.44973"/>
+            </g>
+            <path id="path1079" d="m-26.05143 11.827776v-4h-12v16h12v-5.40625h-2v3.40625h-6v-4l-2-2v-6h6v2" fill="#ff4500" stroke-width="2"/>
+            <path id="path1077" d="m-26.05143-9.172224v-4h-12v16h12v-6h-2v4h-6v-4l-2-2v-6h6v2" fill="#ff9a0a" stroke-width="2"/>
+        </g>
+        <g id="g1527" transform="matrix(.95454545 0 0 .95454545 1.4545456 1.4545456)" fill="#fff" stroke-width="2.22702">
+            <circle id="path673" cx="11.5" cy="11.5" r="1.5"/>
+            <circle id="circle1491" cx="52.5" cy="11.5" r="1.5"/>
+            <circle id="circle1493" cx="11.5" cy="52.5" r="1.5"/>
+            <circle id="circle1495" cx="52.5" cy="52.5" r="1.5"/>
+        </g>
+    </g>
+</svg>
