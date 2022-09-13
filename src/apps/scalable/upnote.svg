@@ -9,10 +9,6 @@
       <stop id="stop273" stop-color="#fff" offset="0"/>
       <stop id="stop275" stop-color="#fff" offset="1"/>
     </linearGradient>
-    <linearGradient id="linearGradient2264" x1="-536.96301" x2="-536.96301" y1="-269.04147" y2="-309.04147" gradientTransform="matrix(1.2121211,0,0,1.2121211,682.86425,382.35328)" gradientUnits="userSpaceOnUse">
-      <stop id="stop2260" stop-color="#1da8bb" offset="0"/>
-      <stop id="stop2258" stop-color="#376ecb" offset="1"/>
-    </linearGradient>
     <filter id="filter8862" x="-.05" y="-.05" width="1.1" height="1.1" color-interpolation-filters="sRGB">
       <feFlood id="feFlood8852" flood-color="rgb(0,0,0)" flood-opacity=".301961" result="flood"/>
       <feComposite id="feComposite8854" in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
@@ -20,8 +16,16 @@
       <feOffset id="feOffset8858" dx="0" dy="0" result="offset"/>
       <feComposite id="feComposite8860" in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
     </filter>
-    <filter id="filter9200" x="-.10318017" y="-.1132922" width="1.2063603" height="1.2265844" color-interpolation-filters="sRGB">
-      <feGaussianBlur id="feGaussianBlur9202" stdDeviation="1.289752"/>
+    <linearGradient id="linearGradient1142" x1="-536.96301" x2="-536.96301" y1="-269.04147" y2="-309.04147" gradientTransform="matrix(1.2121211,0,0,1.2121211,682.86425,382.35328)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2260" stop-color="#1da8bb" offset="0"/>
+      <stop id="stop2258" stop-color="#376ecb" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient1144" x1="-536.96301" x2="-536.96301" y1="-269.04147" y2="-309.04147" gradientTransform="matrix(1.2121211,0,0,1.2121211,682.86425,382.35328)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1150" stop-color="#07b9cf" offset="0"/>
+      <stop id="stop1152" stop-color="#3975e0" offset="1"/>
+    </linearGradient>
+    <filter id="filter1189" x="-.026090689" y="-.027974948" width="1.0521814" height="1.0559499" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur1191" stdDeviation="0.32613362"/>
     </filter>
   </defs>
   <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
@@ -29,16 +33,15 @@
   <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
   <g fill-rule="evenodd">
     <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6"/>
-    <circle id="path2256" cx="32" cy="32" r="24" fill="url(#linearGradient2264)"/>
-    <circle id="circle8778" cx="32" cy="32" r="24" fill="url(#linearGradient2264)" filter="url(#filter8862)"/>
-    <rect id="rect5187" transform="rotate(-44.008034)" x="1245.8448" y="-752.00177" width="789.51813" height="198.03818" ry="23.281908" fill="#ec2525" fill-opacity=".578469"/>
+    <circle id="path2256" cx="32" cy="32" r="24" fill="url(#linearGradient1142)"/>
+    <circle id="circle8778" cx="32" cy="32" r="24" fill="url(#linearGradient1144)" filter="url(#filter8862)"/>
   </g>
-  <g id="g9243">
-    <path id="path9188" d="m32.000002 18.338843c-0.390422 0-0.780334 0.111061-1.128906 0.333985-0.174678 0.111711-0.337922 0.252163-0.486328 0.419921-0.07371 0.08332-0.145655 0.172383-0.210938 0.269532-2.94e-4 4.37e-4 2.94e-4 0.0015 0 2e-3 -0.06523 0.0972-0.126126 0.20147-0.181641 0.3125l-5.492187 10.984375-7.5 15c14.999986-7.661399 15.000011-7.6614 29.999998 0l-6.994139-13.988281-0.505859-1.011719-2.705078-5.410156-2.78711-5.574219c-0.111549-0.223098-0.244427-0.416661-0.392578-0.583985-0.148406-0.167758-0.311651-0.30821-0.486328-0.419921-0.348573-0.222924-0.738485-0.333985-1.128906-0.333985z" fill-rule="evenodd" filter="url(#filter9200)" opacity=".3"/>
-    <g fill="#fff">
-      <path id="path8978" d="m34.007761 19.677609 5.492115 10.984228 7.500004 15c-15.000004-7.661408-15.000004-7.661408-30.000005-1e-6l7.499999-14.999999 5.492115-10.984228c0.892394-1.784787 3.123378-1.784787 4.015772 0z" fill-opacity=".501961" fill-rule="evenodd"/>
-      <path id="path9167" d="m36.794924 25.250953-19.794922 20.410156 23.005859-13.988281-0.505859-1.011719z" fill-opacity=".501961"/>
-      <path id="path9162" d="m32.000002 18.338843c-0.780844 0-1.561616 0.445498-2.007813 1.337891l-5.492187 10.984375-7.5 15 19.794922-20.410156-2.78711-5.574219c-0.446196-0.892393-1.226968-1.337891-2.007812-1.337891z"/>
+  <g id="g1198" transform="matrix(.94358666 0 0 .94334694 76.708024 44.222841)" fill-rule="evenodd" stroke-width="1.05992">
+    <path id="path1174" d="m-47.277344-28.072266c-0.102778-0.0065-0.203651-9.3e-4 -0.304687 0.01172-0.0032 4.05e-4 -0.0065-4.24e-4 -0.0098 0-6.42e-4 8.4e-5 -0.0013-8.4e-5 -2e-3 0-0.415954 0.05509-0.806085 0.267777-1.074219 0.609375-2.94e-4 3.75e-4 2.94e-4 0.0016 0 2e-3 -0.02574 0.03287-0.04493 0.07223-0.06836 0.107422-0.0376 0.05638-0.07829 0.109696-0.109375 0.171875l-13.535156 27.074219c7.543159-2.7798242 12.543167-4.1699219 15-4.1699219 2.456832 0 7.45684 1.3900977 15 4.1699219l-5.246094-10.494141 0.0039-2e-3 -4.894531-9.783203-3.400391-6.794922c-0.03981-0.07962-0.08508-0.155128-0.136719-0.226562-0.05099-0.07063-0.10856-0.135811-0.169921-0.197266-0.123774-0.123962-0.265112-0.229229-0.423829-0.308594-0.101041-0.05052-0.205521-0.08905-0.310546-0.117187-0.105026-0.02814-0.212292-0.04599-0.31836-0.05273z" filter="url(#filter1189)" opacity=".3"/>
+    <g id="g1167" transform="matrix(3,0,0,3,124.763,56.150589)" fill="#fff" stroke-width=".353307">
+      <path id="path560" d="m-57.137565-28.017238c0.10556 0.05278 0.191154 0.138374 0.243934 0.243934l4.512131 9.024262c-2.514389-0.926609-4.181055-1.389914-5-1.389914s-2.485611 0.463305-5 1.389914l4.512131-9.024262c0.134721-0.269442 0.462361-0.378656 0.731804-0.243934z" opacity=".614902"/>
+      <path id="path557" d="m-57.137389-28.01759c0.105512 0.05276 0.191077 0.138297 0.243864 0.243794l1.133384 2.265134-6.621359 6.75962 4.512307-9.024613c0.134721-0.269443 0.462361-0.378656 0.731804-0.243935z"/>
+      <path id="path554" d="m-62.3815-18.749042 8.253073-3.498197-1.631714-3.261423z" opacity=".473151"/>
     </g>
   </g>
 </svg>
