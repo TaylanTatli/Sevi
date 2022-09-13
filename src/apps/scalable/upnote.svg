@@ -1,0 +1,44 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop273" stop-color="#fff" offset="0"/>
+      <stop id="stop275" stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2264" x1="-536.96301" x2="-536.96301" y1="-269.04147" y2="-309.04147" gradientTransform="matrix(1.2121211,0,0,1.2121211,682.86425,382.35328)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2260" stop-color="#1da8bb" offset="0"/>
+      <stop id="stop2258" stop-color="#376ecb" offset="1"/>
+    </linearGradient>
+    <filter id="filter8862" x="-.05" y="-.05" width="1.1" height="1.1" color-interpolation-filters="sRGB">
+      <feFlood id="feFlood8852" flood-color="rgb(0,0,0)" flood-opacity=".301961" result="flood"/>
+      <feComposite id="feComposite8854" in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+      <feGaussianBlur id="feGaussianBlur8856" in="composite1" result="blur" stdDeviation="1"/>
+      <feOffset id="feOffset8858" dx="0" dy="0" result="offset"/>
+      <feComposite id="feComposite8860" in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+    </filter>
+    <filter id="filter9200" x="-.10318017" y="-.1132922" width="1.2063603" height="1.2265844" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur9202" stdDeviation="1.289752"/>
+    </filter>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <g fill-rule="evenodd">
+    <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6"/>
+    <circle id="path2256" cx="32" cy="32" r="24" fill="url(#linearGradient2264)"/>
+    <circle id="circle8778" cx="32" cy="32" r="24" fill="url(#linearGradient2264)" filter="url(#filter8862)"/>
+    <rect id="rect5187" transform="rotate(-44.008034)" x="1245.8448" y="-752.00177" width="789.51813" height="198.03818" ry="23.281908" fill="#ec2525" fill-opacity=".578469"/>
+  </g>
+  <g id="g9243">
+    <path id="path9188" d="m32.000002 18.338843c-0.390422 0-0.780334 0.111061-1.128906 0.333985-0.174678 0.111711-0.337922 0.252163-0.486328 0.419921-0.07371 0.08332-0.145655 0.172383-0.210938 0.269532-2.94e-4 4.37e-4 2.94e-4 0.0015 0 2e-3 -0.06523 0.0972-0.126126 0.20147-0.181641 0.3125l-5.492187 10.984375-7.5 15c14.999986-7.661399 15.000011-7.6614 29.999998 0l-6.994139-13.988281-0.505859-1.011719-2.705078-5.410156-2.78711-5.574219c-0.111549-0.223098-0.244427-0.416661-0.392578-0.583985-0.148406-0.167758-0.311651-0.30821-0.486328-0.419921-0.348573-0.222924-0.738485-0.333985-1.128906-0.333985z" fill-rule="evenodd" filter="url(#filter9200)" opacity=".3"/>
+    <g fill="#fff">
+      <path id="path8978" d="m34.007761 19.677609 5.492115 10.984228 7.500004 15c-15.000004-7.661408-15.000004-7.661408-30.000005-1e-6l7.499999-14.999999 5.492115-10.984228c0.892394-1.784787 3.123378-1.784787 4.015772 0z" fill-opacity=".501961" fill-rule="evenodd"/>
+      <path id="path9167" d="m36.794924 25.250953-19.794922 20.410156 23.005859-13.988281-0.505859-1.011719z" fill-opacity=".501961"/>
+      <path id="path9162" d="m32.000002 18.338843c-0.780844 0-1.561616 0.445498-2.007813 1.337891l-5.492187 10.984375-7.5 15 19.794922-20.410156-2.78711-5.574219c-0.446196-0.892393-1.226968-1.337891-2.007812-1.337891z"/>
+    </g>
+  </g>
+</svg>
