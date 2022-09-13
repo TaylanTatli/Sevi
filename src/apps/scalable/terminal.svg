@@ -1,17 +1,158 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="64" height="64" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <filter id="filter1057-2" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.61875"/>
-  </filter>
-  <linearGradient id="linearGradient1053-0-9" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(152.29 -56.387)" gradientUnits="userSpaceOnUse">
-   <stop stop-color="#1d2123" offset="0"/>
-   <stop stop-color="#33393e" stop-opacity=".99608" offset="1"/>
-  </linearGradient>
- </defs>
- <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-2)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
- <g transform="translate(-20.791 55.877)" stroke-linecap="round">
-  <rect x="25.291" y="-51.377" width="55" height="55" ry="15" fill="url(#linearGradient1053-0-9)" stroke-width="2.7444"/>
-  <path d="m34.914-38.91-0.6875 2.0684 6.9824 2.8008-6.9824 2.8008 0.6875 2.0703 8.9824-3.8047v-2.1309zm8.9707 12.582v2.1445h10.717v-2.1445z" fill="#fff" stroke-linejoin="round" style="paint-order:stroke fill markers"/>
- </g>
+<svg id="svg316" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs306">
+    <pattern id="pattern7346" patternTransform="matrix(.14906832 0 0 .14906832 -81.821651 8.0000011)" xlink:href="#pid-0.41848812833398696"/>
+    <filter id="filter1057-2" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur298" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient3678" x1="-99.498993" x2="-99.498993" y1="61.110001" y2="5.0100007" gradientTransform="matrix(.87272727 0 0 .87272727 118.83548 3.6276356)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1416" stop-color="#292929" offset="0"/>
+      <stop id="stop1418" stop-color="#626262" stop-opacity=".99607843" offset=".5"/>
+      <stop id="stop1420" stop-color="#8b8b8b" stop-opacity=".99607843" offset="1"/>
+    </linearGradient>
+    <filter id="filter4231" x="-.048" y="-.048" width="1.096" height="1.096" color-interpolation-filters="sRGB">
+      <feFlood id="feFlood4221" flood-color="rgb(0,0,0)" result="flood"/>
+      <feComposite id="feComposite4223" in="flood" in2="SourceGraphic" operator="out" result="composite1"/>
+      <feGaussianBlur id="feGaussianBlur4225" in="composite1" result="blur" stdDeviation="1"/>
+      <feOffset id="feOffset4227" dx="0" dy="0" result="offset"/>
+      <feComposite id="feComposite4229" in="offset" in2="SourceGraphic" operator="in" result="composite2"/>
+    </filter>
+    <pattern id="pid-0.41848812833398696" width="128" height="128" patternUnits="userSpaceOnUse">
+      <g id="g6864" transform="scale(.5)" font-family="courier new" font-size="25.6">
+        <text id="text6664" transform="translate(0 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.2709s">シ</text>
+        <text id="text6666" transform="translate(0 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.1709s">ヌ</text>
+        <text id="text6668" transform="translate(0 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.0709s">Ｑ</text>
+        <text id="text6670" transform="translate(0 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.9709s">Ｆ</text>
+        <text id="text6672" transform="translate(0 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.8709s">フ</text>
+        <text id="text6674" transform="translate(0 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.7709s">ツ</text>
+        <text id="text6676" transform="translate(0 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.6709s">１</text>
+        <text id="text6678" transform="translate(0 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.5709s">ソ</text>
+        <text id="text6680" transform="translate(0 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.4709s">Ｆ</text>
+        <text id="text6682" transform="translate(0 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.3709s">Ｃ</text>
+        <text id="text6684" transform="translate(25.6 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.969s">５</text>
+        <text id="text6686" transform="translate(25.6 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.869s">イ</text>
+        <text id="text6688" transform="translate(25.6 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.769s">ス</text>
+        <text id="text6690" transform="translate(25.6 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.669s">オ</text>
+        <text id="text6692" transform="translate(25.6 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.569s">ホ</text>
+        <text id="text6694" transform="translate(25.6 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.469s">ラ</text>
+        <text id="text6696" transform="translate(25.6 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.369s">リ</text>
+        <text id="text6698" transform="translate(25.6 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.269s">ロ</text>
+        <text id="text6700" transform="translate(25.6 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.169s">４</text>
+        <text id="text6702" transform="translate(25.6 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.069s">ネ</text>
+        <text id="text6704" transform="translate(51.2 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.65741s">ヌ</text>
+        <text id="text6706" transform="translate(51.2 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.55741s">Ａ</text>
+        <text id="text6708" transform="translate(51.2 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.45741s">Ｍ</text>
+        <text id="text6710" transform="translate(51.2 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.35741s">タ</text>
+        <text id="text6712" transform="translate(51.2 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.25741s">Ｓ</text>
+        <text id="text6714" transform="translate(51.2 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.15741s">キ</text>
+        <text id="text6716" transform="translate(51.2 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.05741s">Ｅ</text>
+        <text id="text6718" transform="translate(51.2 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.95741s">３</text>
+        <text id="text6720" transform="translate(51.2 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.85741s">レ</text>
+        <text id="text6722" transform="translate(51.2 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.75741s">ニ</text>
+        <text id="text6724" transform="translate(76.8 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.21639s">ヱ</text>
+        <text id="text6726" transform="translate(76.8 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.11639s">６</text>
+        <text id="text6728" transform="translate(76.8 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.01639s">６</text>
+        <text id="text6730" transform="translate(76.8 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.916388s">５</text>
+        <text id="text6732" transform="translate(76.8 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.816388s">ナ</text>
+        <text id="text6734" transform="translate(76.8 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.716388s">ム</text>
+        <text id="text6736" transform="translate(76.8 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.616388s">Ｋ</text>
+        <text id="text6738" transform="translate(76.8 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.516388s">メ</text>
+        <text id="text6740" transform="translate(76.8 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.416388s">モ</text>
+        <text id="text6742" transform="translate(76.8 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.316388s">Ｍ</text>
+        <text id="text6744" transform="translate(102.4 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.11143s">フ</text>
+        <text id="text6746" transform="translate(102.4 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.01143s">２</text>
+        <text id="text6748" transform="translate(102.4 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.911431s">１</text>
+        <text id="text6750" transform="translate(102.4 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.811431s">シ</text>
+        <text id="text6752" transform="translate(102.4 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.711431s">ロ</text>
+        <text id="text6754" transform="translate(102.4 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.611431s">Ｕ</text>
+        <text id="text6756" transform="translate(102.4 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.511431s">ナ</text>
+        <text id="text6758" transform="translate(102.4 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.411431s">Ｎ</text>
+        <text id="text6760" transform="translate(102.4 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.311431s">ユ</text>
+        <text id="text6762" transform="translate(102.4 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.211431s">ユ</text>
+        <text id="text6764" transform="translate(128 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.84568s">Ｉ</text>
+        <text id="text6766" transform="translate(128 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.74568s">イ</text>
+        <text id="text6768" transform="translate(128 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.64568s">オ</text>
+        <text id="text6770" transform="translate(128 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.54568s">ヲ</text>
+        <text id="text6772" transform="translate(128 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.44568s">ス</text>
+        <text id="text6774" transform="translate(128 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.34568s">メ</text>
+        <text id="text6776" transform="translate(128 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.24568s">Ｚ</text>
+        <text id="text6778" transform="translate(128 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.14568s">ミ</text>
+        <text id="text6780" transform="translate(128 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.04568s">Ｌ</text>
+        <text id="text6782" transform="translate(128 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.945683s">オ</text>
+        <text id="text6784" transform="translate(153.6 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.17463s">Ｅ</text>
+        <text id="text6786" transform="translate(153.6 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.07463s">ヒ</text>
+        <text id="text6788" transform="translate(153.6 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.974625s">ナ</text>
+        <text id="text6790" transform="translate(153.6 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.874625s">ヌ</text>
+        <text id="text6792" transform="translate(153.6 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.774625s">ン</text>
+        <text id="text6794" transform="translate(153.6 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.674625s">Ｘ</text>
+        <text id="text6796" transform="translate(153.6 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.574625s">ン</text>
+        <text id="text6798" transform="translate(153.6 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.474625s">ナ</text>
+        <text id="text6800" transform="translate(153.6 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.374625s">ス</text>
+        <text id="text6802" transform="translate(153.6 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.274625s">ア</text>
+        <text id="text6804" transform="translate(179.2 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.67777s">Ｃ</text>
+        <text id="text6806" transform="translate(179.2 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.57777s">キ</text>
+        <text id="text6808" transform="translate(179.2 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.47777s">Ｌ</text>
+        <text id="text6810" transform="translate(179.2 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.37777s">シ</text>
+        <text id="text6812" transform="translate(179.2 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.27777s">タ</text>
+        <text id="text6814" transform="translate(179.2 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.17777s">エ</text>
+        <text id="text6816" transform="translate(179.2 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.07777s">７</text>
+        <text id="text6818" transform="translate(179.2 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.977768s">ケ</text>
+        <text id="text6820" transform="translate(179.2 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.877768s">８</text>
+        <text id="text6822" transform="translate(179.2 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.777768s">Ｈ</text>
+        <text id="text6824" transform="translate(204.8 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.66814s">ヌ</text>
+        <text id="text6826" transform="translate(204.8 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.56814s">Ｍ</text>
+        <text id="text6828" transform="translate(204.8 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.46814s">ニ</text>
+        <text id="text6830" transform="translate(204.8 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.36814s">Ｘ</text>
+        <text id="text6832" transform="translate(204.8 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.26814s">ア</text>
+        <text id="text6834" transform="translate(204.8 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.16814s">Ｗ</text>
+        <text id="text6836" transform="translate(204.8 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.06814s">ワ</text>
+        <text id="text6838" transform="translate(204.8 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.968144s">Ｉ</text>
+        <text id="text6840" transform="translate(204.8 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.868144s">イ</text>
+        <text id="text6842" transform="translate(204.8 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.768144s">エ</text>
+        <text id="text6844" transform="translate(230.4 25.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.65915s">Ｂ</text>
+        <text id="text6846" transform="translate(230.4 51.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.55915s">Ｐ</text>
+        <text id="text6848" transform="translate(230.4 76.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.45915s">Ｕ</text>
+        <text id="text6850" transform="translate(230.4 102.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.35915s">ミ</text>
+        <text id="text6852" transform="translate(230.4 128)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.25915s">ホ</text>
+        <text id="text6854" transform="translate(230.4 153.6)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.15915s">ム</text>
+        <text id="text6856" transform="translate(230.4 179.2)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-1.05915s">Ｚ</text>
+        <text id="text6858" transform="translate(230.4 204.8)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.95915s">Ｏ</text>
+        <text id="text6860" transform="translate(230.4 230.4)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.85915s">Ｊ</text>
+        <text id="text6862" transform="translate(230.4 256)" fill="#34ff00" style="--darkreader-inline-fill:#48ff1a;animation-delay:-.75915s">Ｈ</text>
+      </g>
+    </pattern>
+    <filter id="filter3021" x="-.023171248" y="-.032344516" width="1.0463425" height="1.064689" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3023" stdDeviation="0.19419636"/>
+    </filter>
+    <linearGradient id="linearGradient2657" x1="5.0384002" x2="59.5" y1="58.961601" y2="4.5" gradientTransform="matrix(.99272727 0 0 .99272727 .23272803 .23272803)" gradientUnits="userSpaceOnUse">
+      <stop id="stop9487" stop-color="#fcb84a" stop-opacity=".99607843" offset="0"/>
+      <stop id="stop9489" stop-color="#f746b2" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5935" x1="-99.498993" x2="-99.498993" y1="61.110001" y2="5.0100007" gradientTransform="matrix(.90909091 0 0 .90909091 122.45363 2.445455)" gradientUnits="userSpaceOnUse">
+      <stop id="stop3680" stop-color="#1f3429" offset="0"/>
+      <stop id="stop3686" stop-color="#576c61" stop-opacity=".99607843" offset=".5"/>
+      <stop id="stop3682" stop-color="#83948b" stop-opacity=".99607843" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g stroke-linecap="round">
+    <rect id="rect308" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057-2)" opacity=".3" stroke-width="2.7444"/>
+    <rect id="rect310" x="4.7000008" y="4.7000008" width="54.599998" height="54.599998" ry="14.890909" fill="url(#linearGradient2657)" stroke="#444" stroke-width=".4"/>
+    <rect id="rect2706" x="7.1000004" y="7.1000004" width="49.799999" height="49.799999" ry="13.581818" fill="#7f7f7f" stroke-width="2.7444"/>
+  </g>
+  <path id="path8354" d="m21.090909 8.0000002c-7.252357 0-13.090909 5.8385518-13.090909 13.090909v21.818182c0 7.252357 5.8385522 13.090909 13.090909 13.090909h21.818182c7.252357 0 13.090909-5.838552 13.090909-13.090909v-21.818182c0-7.252357-5.838552-13.090909-13.090909-13.090909z" fill="url(#pattern7346)" stroke-width="1.61"/>
+  <g stroke-linecap="round">
+    <rect id="rect3676" x="8" y="8" width="48" height="48" ry="13.090908" fill="url(#linearGradient3678)" opacity=".75" stroke-width="2.7444"/>
+    <g id="g3019" filter="url(#filter3021)" opacity=".3">
+      <path id="path3015" d="m23.0937 30.549v0.1445a1 1 45 0 0 1 1h8.717a1 1 135 0 0 1-1v-0.1445a1 1 45 0 0-1-1h-8.717a1 1 135 0 0-1 1z" style="paint-order:stroke fill markers"/>
+      <path id="path3017" d="m13.807584 17.915954-0.05667 0.170492a1.0624913 1.0624913 65.121376 0 0 0.612701 1.321243l5.126166 2.056222a0.40112282 0.40112282 90 0 1 0 0.744578l-5.126166 2.056222a1.0627838 1.0627838 114.88649 0 0-0.612962 1.321329l0.05719 0.17222a0.92299922 0.92299922 24.336821 0 0 1.235958 0.559013l7.140794-3.024646a1.509581 1.509581 123.5219 0 0 0.920805-1.390027v-0.1309a1.509581 1.509581 56.478096 0 0-0.920803-1.390027l-7.140794-3.024646a0.92325363 0.92325363 155.67105 0 0-1.236219 0.558927z" style="paint-order:stroke fill markers"/>
+    </g>
+    <g id="g1265" fill="#fcfffc">
+      <path id="path1090" d="m23.0937 30.549v0.1445a1 1 45 0 0 1 1h8.717a1 1 135 0 0 1-1v-0.1445a1 1 45 0 0-1-1h-8.717a1 1 135 0 0-1 1z" style="paint-order:stroke fill markers"/>
+      <path id="path312" d="m13.807584 17.915954-0.05667 0.170492a1.0624913 1.0624913 65.121376 0 0 0.612701 1.321243l5.126166 2.056222a0.40112282 0.40112282 90 0 1 0 0.744578l-5.126166 2.056222a1.0627838 1.0627838 114.88649 0 0-0.612962 1.321329l0.05719 0.17222a0.92299922 0.92299922 24.336821 0 0 1.235958 0.559013l7.140794-3.024646a1.509581 1.509581 123.5219 0 0 0.920805-1.390027v-0.1309a1.509581 1.509581 56.478096 0 0-0.920803-1.390027l-7.140794-3.024646a0.92325363 0.92325363 155.67105 0 0-1.236219 0.558927z" style="paint-order:stroke fill markers"/>
+    </g>
+    <g id="g8337" fill="url(#linearGradient5935)" stroke-width="2.78902">
+      <rect id="rect3688" transform="matrix(.98400004 0 0 .98400004 .51199888 .51199888)" x="7.000001" y="7.000001" width="50" height="50" ry="13.636363" filter="url(#filter4231)"/>
+      <rect id="rect5507" transform="matrix(.98400004 0 0 .98400004 .51199888 .51199888)" x="7.000001" y="7.000001" width="50" height="50" ry="13.636363" filter="url(#filter4231)"/>
+    </g>
+    <path id="rect5511" d="m20.681818 7.1c-7.524321 0-13.581818 6.057498-13.581818 13.581818v22.636364c0 7.52432 6.057497 13.581818 13.581818 13.581818h22.636363c7.524321 0 13.581819-6.057498 13.581819-13.581818v-22.636364c0-7.52432-6.057498-13.581818-13.581819-13.581818zm0.412052 0.9054545h21.812259c7.250701 0 13.088415 5.8377165 13.088415 13.088416v21.814027c0 7.250701-5.837714 13.086646-13.088415 13.086646h-21.812259c-7.250701 1e-6 -13.088416-5.835945-13.088416-13.086646v-21.814027c0-7.2507 5.837715-13.088416 13.088416-13.088416z" fill="#333" stroke-width=".999992"/>
+  </g>
 </svg>
