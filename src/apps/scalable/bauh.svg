@@ -1,0 +1,26 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+    <filter id="filter2501" x="-.026843783" y="-.027158047" width="1.0536876" height="1.0543161" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2503" stdDeviation="0.13421891"/>
+    </filter>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#f29c1f" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g fill-rule="evenodd">
+    <path id="rect565" d="m19.5 4.5c-8.309992 0-15 6.690008-15 15v6.734375h55v-6.734375c0-8.309992-6.690008-15-15-15h-25z" fill="#f0c419"/>
+    <rect id="rect2563" x="12" y="32.383251" width="40" height="20.967875" ry="2.809216" fill="#af8066"/>
+    <path id="path2499" d="m26 26.2v5.859878c0 3.324294 2.675707 6.001262 6 6.001262 3.324294 0 6-2.676968 6-6.001262v-5.859878z" fill="#141414" filter="url(#filter2501)" opacity=".3"/>
+    <path id="rect2492" d="m26 26v5.859878c0 3.324294 2.675707 6.001262 6 6.001262 3.324294 0 6-2.676968 6-6.001262v-5.859878z" fill="#f0c419"/>
+    <path id="path2369" d="m21.204546 4.4999999c-7.176812 0-12.954546 6.6900071-12.954546 15v6.734375h47.5v-6.734375c0-8.309993-5.777734-15-12.954546-15z" fill="#805333"/>
+  </g>
+  <path id="path2831" d="m12 42.867189h40" fill="none" stroke="#805333" stroke-width="7"/>
+  <path id="path3023" d="m32 28.699219a1.8450665 1.8450665 0 0 0-1.845703 1.845703 1.8450665 1.8450665 0 0 0 1.003906 1.636719v2.279297c0 0.465995 0.375802 0.839843 0.841797 0.839843 0.465996 0 0.841797-0.373848 0.841797-0.839843v-2.279297a1.8450665 1.8450665 0 0 0 1.003906-1.636719 1.8450665 1.8450665 0 0 0-1.845703-1.845703z" fill="#2c2f38" fill-rule="evenodd"/>
+  <path id="path3339" d="m10.847656 10.466797c-1.3005054 1.999494-2.1737215 4.392053-2.4765622 7h47.257812c-0.302841-2.607947-1.176057-5.000506-2.476562-7h-42.304688z" color="#000000" fill="#af8066" style="-inkscape-stroke:none"/>
+</svg>
