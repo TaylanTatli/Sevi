@@ -1,0 +1,20 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop273" stop-color="#3d3846" offset="0"/>
+      <stop id="stop275" stop-color="#474356" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <path id="path475" d="m127.85066-42.09319h96c4.41797 0 8 3.582031 8 8v60c0 4.41797-3.58203 8-8 8h-96c-4.41797 0-8-3.58203-8-8v-60c0-4.417969 3.58203-8 8-8z" fill="url(#a)"/>
+  <path id="path479" d="m59.5 26.107422c-13.304957 0-20.367957-0.07616-27.5 12.277344-6.337664 10.976524-13.778377 12.198481-26.177734 12.269531 2.3421431 5.220604 7.5658854 8.845703 13.677734 8.845703h25c8.309992 0 15-6.690008 15-15v-18.392578z" fill="#3584e4" stroke-width=".999998"/>
+  <path id="path481" d="m40.666016 36.666016v8.455078c-0.60767-0.291742-1.285775-0.455078-2-0.455078-2.561502 0-4.666016 2.106481-4.666016 4.667968 0 2.561498 2.104521 4.666016 4.666016 4.666016 2.561496 0 4.667968-2.10452 4.667968-4.666016v-10h8v5.78711c-0.60745-0.291742-1.285774-0.455078-2-0.455078-2.5615 0-4.667968 2.106481-4.667968 4.667968 0 2.561498 2.106475 4.666016 4.667968 4.666016 2.533941 0 4.619458-2.059961 4.664063-4.583984h0.001953v-12.75h-13.333984zm-2 10.667968c1.119972 0 2 0.880046 2 2v0.019532c-0.010272 1.110558-0.88661 1.980468-2 1.980468-1.119973 0-2-0.880026-2-2 0-1.119952 0.880034-2 2-2zm10.667968 0c1.119973 0 2 0.880045 2 2 0 1.119976-0.88002 2-2 2-1.119972 0-2-0.880026-2-2 0-1.119952 0.880035-2 2-2z" color="#000000" fill="#423d4e" style="-inkscape-stroke:none"/>
+</svg>
