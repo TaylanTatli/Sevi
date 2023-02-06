@@ -1,0 +1,20 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#234764" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <path id="rect457" d="m4.4999995 42.5v2c0 8.309992 6.6900085 15 15 15h25c8.30999 0 15-6.690008 15-15v-2c0 8.309992-6.69001 15-15 15h-25c-8.309992 0-15-6.690008-15-15z"/>
+  <path id="path466" d="m4.4999993 21.5v-2c0-8.309992 6.6900087-15 15.000001-15h25.000001c8.30999 0 15 6.690008 15 15v2c0-8.309992-6.69001-15-15-15h-25.000001c-8.309992 0-15.000001 6.690008-15.000001 15z"/>
+  <g id="g1278" stroke-width="1.22474">
+    <path id="path1150" d="m22.892512 6.5v51.085938h1.5v-51.085938z" color="#000000" style="-inkscape-stroke:none"/>
+    <path id="path1152" d="m24.392578 6.5v51h1.5v-51h-1.5z" color="#000000" fill="#fff"/>
+    <path id="path1154" d="m25.892512 6.5v51.085938h1.5v-51.085938z" color="#000000" style="-inkscape-stroke:none"/>
+  </g>
+</svg>
