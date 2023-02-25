@@ -2,8 +2,10 @@
   <defs id="defs967">
     <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#222222; } .ColorScheme-Highlight { color:#4285f4; }</style>
   </defs>
-  <circle id="path822" cx="11" cy="11" r="9" fill="#222222" opacity=".15" stroke-width=".818182" style="paint-order:normal"/>
-  <g id="g4" transform="matrix(.81818182 0 0 .81818182 1.181818 -224.63636)" fill="#ffffff">
-    <path id="path2" transform="translate(0,276)" d="m12 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#ffffff" opacity=".85" style="paint-order:fill markers stroke"/>
+  <g id="g240" transform="matrix(1.1111111,0,0,1.1111111,-1.2222221,-1.2222221)">
+    <circle id="path822" cx="11" cy="11" r="9" fill="#222222" opacity=".15" stroke-width=".818182" style="paint-order:normal"/>
+    <g id="g4" transform="matrix(.81818182 0 0 .81818182 1.181818 -224.63636)" fill="#ffffff">
+      <path id="path2" transform="translate(0,276)" d="m12 6a6 6 0 0 0-6 6 6 6 0 0 0 6 6 6 6 0 0 0 6-6 6 6 0 0 0-6-6zm0 2a4 4 0 0 1 4 4 4 4 0 0 1-4 4 4 4 0 0 1-4-4 4 4 0 0 1 4-4z" fill="#ffffff" opacity=".85" style="paint-order:fill markers stroke"/>
+    </g>
   </g>
 </svg>
