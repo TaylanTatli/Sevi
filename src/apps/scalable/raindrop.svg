@@ -1,0 +1,36 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop273" stop-color="#f0f0f0" offset="0"/>
+      <stop id="stop275" stop-color="#f7f7f7" stop-opacity=".99607843" offset="1"/>
+    </linearGradient>
+    <path id="a" d="M12 0a12 12 0 0112 12v12H12a12 12 0 110-24z"/>
+    <path id="c" d="M0 24V11.7A12 12 0 1112 24H0z"/>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g483" transform="matrix(.8299449 0 0 .8299449 12.082879 12.312369)" fill="none" fill-rule="evenodd">
+    <path id="path463" d="m35.3 9.7a16 16 0 0 1-0.6 23.2l-10.7 10.1-10.7-10-0.6-0.7a16 16 0 1 1 22.6-22.6z" fill="#1988e0"/>
+    <g id="g472" transform="translate(0,19)">
+      <mask id="b" fill="#ffffff">
+        <use id="use465" xlink:href="#a"/>
+      </mask>
+      <use id="use468" fill="#2cd4ed" xlink:href="#a"/>
+      <path id="path470" d="m35.3-9.3a16 16 0 0 1-0.6 23.2l-10.7 10.1-10.7-10-0.6-0.7a16 16 0 1 1 22.6-22.6z" fill="#0db4e2" mask="url(#b)"/>
+    </g>
+    <g id="g481" transform="translate(24,19)">
+      <mask id="d" fill="#ffffff">
+        <use id="use474" xlink:href="#c"/>
+      </mask>
+      <use id="use477" fill="#3169ff" xlink:href="#c"/>
+      <path id="path479" d="m11.3-9.3a16 16 0 0 1-0.6 23.2l-10.7 10.1-10.7-10-0.6-0.7a16 16 0 1 1 22.6-22.6z" fill="#3153ff" mask="url(#d)"/>
+    </g>
+  </g>
+</svg>
