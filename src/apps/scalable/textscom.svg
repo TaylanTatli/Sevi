@@ -1,0 +1,18 @@
+<svg id="svg290" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs278">
+    <style id="style266" type="text/css"/>
+    <style id="style268" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur270" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop273" stop-color="#374fe6" offset="0"/>
+      <stop id="stop275" stop-color="#69a4ff" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect280" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect282" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle284" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle286" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <path id="path16536" d="m43.208185 43.831978c0.85205-0.930181 1.728463-1.826416 2.397246-2.918391 1.517178-2.467351 2.2777-5.357321 2.345136-8.23402 0.175444-1.829936-0.141314-3.681212-0.553516-5.462735-0.972016-3.787082-3.406231-7.316446-6.967215-9.07386-2.30757-1.346602-4.993389-1.900362-7.620268-2.021103-1.40016-0.07116-2.799259 0.06341-4.17104 0.351166-3.227208 0.571209-6.316117 2.14075-8.516874 4.585094-2.151646 2.580135-3.419402 5.795292-3.800715 9.119401-0.428295 3.480319-0.23419 6.997927-0.316303 10.496057 3.2e-4 2.009255-0.172 4.400825 1.554677 5.802323 1.45024 0.986964 3.294905 0.943352 4.967301 1.128834 1.361768 0.06139 2.745346 0.05347 4.098315 0.213558 1.317835-0.01592 2.980883-2.11e-4 4.075881 0.07857 1.293238-0.177221 2.895595-0.104977 4.289549-0.383874 1.786248-0.271856 3.399309-0.817743 5.001228-1.573305 1.151554-0.535722 2.317019-1.395907 3.216598-2.107721z" fill="#f5f5f5"/>
+</svg>
