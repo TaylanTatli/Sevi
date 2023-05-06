@@ -1,0 +1,36 @@
+<svg id="svg270" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs258">
+    <style id="style246" type="text/css"/>
+    <style id="style248" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur250" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop253" stop-color="#6c4ac4" offset="0"/>
+      <stop id="stop255" stop-color="#8d72cf" offset="1"/>
+    </linearGradient>
+    <filter id="filter15844" x="-.027189914" y="-.02681272" width="1.0543798" height="1.0536254" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur15846" stdDeviation="0.37959409"/>
+    </filter>
+  </defs>
+  <rect id="rect260" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect262" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle264" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle266" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g15859" transform="matrix(.90067519 0 0 .90074378 3.1783937 3.1762003)" stroke-width="1.11024">
+    <path id="path15814" d="m19.564244 15.011313-3.201172 2.441406c-1.051533 28.129013 0.237542-0.227351-1.050781 28.128907-0.03932 0.898014-0.24325 1.781817 0.353516 2.566406 0.649575 0.85395 1.552303 0.792968 2.515625 0.792968h26.873047c0.732124 1e-6 1.674834 0.155749 2.371093-0.0957 1.420283-0.512784 1.377149-1.935728 1.292969-3.166015l-1.097656-28.326175-3.060547-2.316406z" fill="#000000" filter="url(#filter15844)" opacity=".3"/>
+    <g id="g15114" transform="matrix(.09880239 0 0 .09880239 -88.78093 6.8727286)" stroke-width="11.237">
+      <path id="path15047" d="m1302.5715 169.78318c-0.042-14.736-11.958-14.676-12 0-2.307-1.985-3.916-3.917-4.605-7.001-6.234-27.902 40.858-5.609 16.605 7.001z" fill="#6344b4"/>
+      <path id="path15045" d="m1154.5766 169.78318c-0.042-14.813-13.662-14.564-11 0-9.334-2.764-8.892-16.803 0-20.258 13.317-5.171 20.834 11.795 10.995 20.258" fill="#6344b4"/>
+      <path id="path15035" d="m1096.5766 82.371881 252.9999 0.2655 30.972 23.434799 11.118 286.711c0.852 12.452 1.285 26.84-13.09 32.03-7.047 2.545-16.59 0.97-24 0.97h-271.9999c-9.75 0-18.8676 0.628-25.4421-8.015-6.04-7.941-3.9953-16.896-3.5973-25.985 13.0394-287 0 0 10.6428-284.7l32.3966-24.711299" fill="#ffffff"/>
+      <g fill="#503791">
+        <path id="path15043" d="m1290.5765 173.78318c-4.877 14.38-7.406 27.52-16.899 40-31.794 41.798-91.303 31.24-111.6729-16-2.412-5.595-7.533-15.803-5.735-22 1.992-6.867 8.105-9.837 7.115-18-1.241-10.228-12.59-15.782-21.769-11.633-8.439 3.816-11.657 14.939-6.336 22.593 2.228 3.205 6.166 4.861 8.122 8.224 2.392 4.114 2.532 10.24 3.896 14.816 11.558 38.783 48.2999 66.825 89.2789 59.384 33.738-6.126 57.592-37.049 63.921-69.383 1.331-6.804 6.757-8.395 9.989-14.005 5.46-9.475-0.975-22.096-11.91-22.898-16.937-1.242-23.506 21.605-8 28.902"/>
+        <path id="path15041" d="m1069.3069 104.78318v1h26.2697v-20.999999l-26.2697 19.999999"/>
+        <path id="path15039" d="m1349.5765 83.783181v21.999999h27.0043v-1l-27.0043-20.999999"/>
+        <path id="path15037" d="m1097.5766 105.78318h249.9999v-21.999999l-250.0898-0.03118 0.09 22.031179"/>
+      </g>
+      <ellipse id="path15101" cx="1147.4486" cy="160.71928" rx="7.0467501" ry="7.2027049" fill="#f1eef9" fill-rule="evenodd" stroke="#ffffff" stroke-linecap="square" stroke-width="4.49477" style="paint-order:markers stroke fill"/>
+      <ellipse id="ellipse15103" cx="1297.4796" cy="159.5737" rx="7.0467501" ry="7.2027049" fill="#f1eef9" fill-rule="evenodd" stroke="#ffffff" stroke-linecap="square" stroke-width="4.49477" style="paint-order:markers stroke fill"/>
+    </g>
+  </g>
+</svg>
