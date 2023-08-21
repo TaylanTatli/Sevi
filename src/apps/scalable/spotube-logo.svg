@@ -1,0 +1,50 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#08090b" offset="0"/>
+      <stop id="stop3" stop-color="#242832" offset="1"/>
+    </linearGradient>
+    <filter id="inner-shadow-filter-0" x="-.064836091" y="-.071329232" width="1.1296722" height="1.108079" bx:preset="inner-shadow 1 0 0 4 0.5 rgba(0,0,0,0.7)">
+      <feOffset id="feOffset200" dx="0" dy="0"/>
+      <feGaussianBlur id="feGaussianBlur202" result="result1" stdDeviation="4"/>
+      <feComposite id="feComposite204" in="SourceGraphic" in2="result1" operator="out"/>
+      <feComponentTransfer id="feComponentTransfer208" result="choke">
+        <feFuncA id="feFuncA206" slope="1" type="linear"/>
+      </feComponentTransfer>
+      <feFlood id="feFlood210" flood-color="rgba(0,0,0,0.7)" result="color"/>
+      <feComposite id="feComposite212" in="color" in2="choke" operator="in" result="shadow"/>
+      <feComposite id="feComposite214" in="shadow" in2="SourceGraphic"/>
+    </filter>
+    <linearGradient id="gradient-4-1" x1="82.026001" x2="82.026001" y1="144.832" y2="264.46201" gradientTransform="translate(7.2213312)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2809"/>
+    <linearGradient id="linearGradient2809">
+      <stop id="stop2803" stop-color="#5668ea" offset=".113"/>
+      <stop id="stop2805" stop-color="#0093b1" offset=".60799998"/>
+      <stop id="stop2807" stop-color="#00a29f" offset=".94400001"/>
+    </linearGradient>
+    <radialGradient id="radialGradient5537" cx="143.6935" cy="143.69299" r="152.72653" gradientTransform="matrix(1 0 0 .8506841 0 21.45565)" gradientUnits="userSpaceOnUse">
+      <stop id="stop5531" stop-color="#00063b" offset=".25885531"/>
+      <stop id="stop5533" stop-color="#004256" offset="1"/>
+    </radialGradient>
+    <linearGradient id="gradient-4-2" x1="143.69299" x2="143.69299" y1="22.804001" y2="264.582" gradientUnits="userSpaceOnUse">
+      <stop id="stop932" stop-color="#5869eb" offset=".113"/>
+      <stop id="stop934" stop-color="#0093b1" offset=".60799998"/>
+      <stop id="stop936" stop-color="#02a7a4" offset=".94400001"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5506" x1="82.026001" x2="82.026001" y1="144.832" y2="264.46201" gradientTransform="translate(117.34662)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient2809"/>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g236" transform="matrix(.13838393 0 0 .13818882 12.115129 11.42362)" fill="none" filter="url(#inner-shadow-filter-0)">
+    <path id="path230" d="m78.642332 155.437v98.42c0 5.867 4.741 10.605 10.605 10.605 5.854 0 10.604995-4.738 10.604995-10.605v-98.42c0-5.856-4.750995-10.605-10.604995-10.605-5.864 0-10.605 4.744-10.605 10.605z" fill="none" stroke="url(#gradient-4-1)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.80924px"/>
+    <path id="path232" d="m29.456 264.582h23.351v-116.85c0.064-0.56 0.166-1.119 0.166-1.693 0-50.412 40.69-91.42 90.698-91.42 50.002 0 90.692 41.008 90.692 91.42 0 0.771 0.113 1.518 0.228 2.263v116.28h23.354c16.254 0 29.442-13.64 29.442-30.469v-60.936c0-13.878-8.989-25.57-21.261-29.249-1.129-66.971-55.608-121.124-122.45-121.124-66.86 0-121.347 54.158-122.465 121.15-12.255 3.684-21.211 15.366-21.211 29.233v60.926c0 16.819 13.187 30.469 29.456 30.469z" fill="url(#radialGradient5537)" stroke="url(#gradient-4-2)" stroke-linecap="round" stroke-linejoin="round" stroke-width="18.0661"/>
+    <path id="path3079" d="m49.735541 279.35822c-26.014141-11.87336-11.613429-30.73103 31.124099-41.90597 14.400662-3.49216 25.08508-5.12184 43.66659-4.88901 11.61348 0.23282 24.62053 3.49216 24.62053 3.49216 0-42.13877-0.46471-121.7601-0.46471-160.87234 4.6454 0 7.89719-0.232827 14.40071-0.232827v6.053093c0 2.095305 0 3.259358 0.46471 4.656212 4.6454 14.66709 11.14893 20.48736 43.66659 38.41381 41.34392 23.04827 53.42195 36.78411 53.42195 55.17616-0.46471 17.22802-30.65954 54.01213-37.16306 52.61528 9.29075-13.03741 22.2978-27.00606 25.54958-38.64661 4.18085-14.20147-7.43263-34.2232-26.01414-44.69971-14.86522-8.8468-50.17016-16.52957-59.92547-16.52957 0 0-0.46472 84.74317-0.46472 116.87109 0 5.35464-9.7553 14.89989-15.32977 18.15925-25.54958 15.36551-75.25519 22.34984-97.553043 12.33896z" stroke-width="3.28861"/>
+    <path id="path5502" d="m188.76763 155.437v98.42c0 5.867 4.741 10.605 10.60501 10.605 5.854 0 10.605-4.738 10.605-10.605v-98.42c0-5.856-4.751-10.605-10.605-10.605-5.86401 0-10.60501 4.744-10.60501 10.605z" fill="none" stroke="url(#linearGradient5506)" stroke-linecap="round" stroke-linejoin="round" stroke-width="9.80924px"/>
+  </g>
+</svg>

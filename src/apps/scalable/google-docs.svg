@@ -1,0 +1,59 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#f1f1f1" offset="0"/>
+      <stop id="stop3" stop-color="#eeeeee" offset="1"/>
+    </linearGradient>
+    <style id="style1-3">.a {
+        fill: #00832d;
+      }
+
+      .b {
+        fill: #ffba00;
+      }
+
+      .c {
+        fill: #0066da;
+      }
+
+      .d {
+        fill: #00ac47;
+      }
+
+      .e {
+        fill: #2684fc;
+      }
+
+      .f {
+        fill: #ea4335;
+      }
+
+      .g {
+        fill: #fff;
+      }</style>
+    <filter id="filter12" x="-.032062821" y="-.023318009" width="1.0641256" height="1.046636" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur12" stdDeviation="0.28500439"/>
+    </filter>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g12" transform="matrix(1.4317856,0,0,1.4317856,16.72672,10.999032)" filter="url(#filter12)" opacity=".45">
+    <path id="rect12" class="g" d="m2.00037 6.7616618e-4a2 2 0 0 0-1.9997975 1.9997975v25.333041a2 2 0 0 0 1.9997975 2.001162h17.333852a2 2 0 0 0 1.999797-2.001162v-19.999339l-7.3335-7.3335002h-6.6664463z" fill="#141414"/>
+  </g>
+  <g id="g6" transform="matrix(1.4317856,0,0,1.4317856,16.727143,11.000001)">
+    <path id="path1" class="a" d="m7.334 22h-7.334v5.334a2 2 0 0 0 2 2h5.334z"/>
+    <path id="path2" class="b" d="m7.334 0h-5.334a2 2 0 0 0-2 2v20h7.334v-14.666h6.666v-7.334z"/>
+    <path id="path3" class="c" d="m21.334 22h-7.334v7.334h5.334a2 2 0 0 0 2-2z"/>
+    <path id="path4" class="d" d="m14 22h-6.666v7.334h6.666z"/>
+    <path id="path5" class="e" d="m14 7.334v14.666h7.334v-14.666z"/>
+    <path id="path6" class="f" d="m14 0v7.334h7.334z"/>
+    <rect id="rect6" class="g" x="7.3340001" y="7.3340001" width="6.6659999" height="14.666"/>
+  </g>
+</svg>
