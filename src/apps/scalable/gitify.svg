@@ -1,0 +1,22 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#cccccc" offset="0"/>
+      <stop id="stop3" stop-color="#fefefe" offset="1"/>
+    </linearGradient>
+    <filter id="filter2" x="-.027196649" y="-.026806174" width="1.0543933" height="1.0536123" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3" stdDeviation="0.38528577"/>
+    </filter>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <path id="path1" d="m32.678776 14.752771c-0.15695-0.0018-0.31378 5e-3 -0.46993 0.02027-8.7931 0.0218-16.29139 6.762202-17.13141 15.594018-0.86428 9.086991 5.60187 17.349328 14.63016 18.693279 8.82972 1.314396 17.22429-4.422103 19.2924-13.042175l-6.06967-7.297727c-0.86139-1.048746-1.21596-1.031599-2.49295-1.031599h-6.03382c-5.83109-0.08246-5.83105 8.706506 5e-5 8.624038h5.31569c-1.71452 3.00726-5.11185 4.758038-8.74172 4.217696-4.57818-0.68151-7.75334-4.738684-7.31508-9.346641 0.43829-4.607955 4.32096-7.994207 8.94552-7.800376 0.18757 0.0099 0.3754 0.0078 0.56258-0.0067h5.54435c2.40527 0.03402 4.37333-1.906469 4.37333-4.31202 0-2.405553-1.96806-4.34604-4.37333-4.312021z" fill="#111111" filter="url(#filter2)" opacity=".3" stroke-width="2.15595"/>
+  <path id="path2" d="m32.678776 14.752771c-0.15695-0.0018-0.31378 5e-3 -0.46993 0.02027-8.7931 0.0218-16.29139 6.762202-17.13141 15.594018-0.86428 9.086991 5.60187 17.349328 14.63016 18.693279 8.82972 1.314396 17.22429-4.422103 19.2924-13.042175l-6.06967-7.297727c-0.86139-1.048746-1.21596-1.031599-2.49295-1.031599h-6.03382c-5.83109-0.08246-5.83105 8.706506 5e-5 8.624038h5.31569c-1.71452 3.00726-5.11185 4.758038-8.74172 4.217696-4.57818-0.68151-7.75334-4.738684-7.31508-9.346641 0.43829-4.607955 4.32096-7.994207 8.94552-7.800376 0.18757 0.0099 0.3754 0.0078 0.56258-0.0067h5.54435c2.40527 0.03402 4.37333-1.906469 4.37333-4.31202 0-2.405553-1.96806-4.34604-4.37333-4.312021z" fill="#091c3d" stroke-width="2.15595"/>
+</svg>
