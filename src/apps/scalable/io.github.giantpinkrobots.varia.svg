@@ -1,0 +1,120 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="d" x1="54.873" x2="154.873" y1="4.79" y2="-95.168" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#cee0f1" offset="0"/>
+      <stop stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <clipPath id="b">
+      <path d="m42.873 14.832v-120h120s4.214 40.565-1 55c-3.557 9.844-15.307 6.206-19 16-3.302 8.755 1.897 20.027-3 28-7.122 11.593-35 21-35 21z" fill="none" stroke="#000"/>
+    </clipPath>
+    <clipPath id="e">
+      <path d="m108 659.5v-120h120s4.215 40.565-1 55c-3.556 9.844-15.307 6.206-19 16-3.301 8.755 1.898 20.027-3 28-7.121 11.593-35 21-35 21z" fill="none" stroke="#000"/>
+    </clipPath>
+    <filter id="f" x="-.034" y="-.029" width="1.069" height="1.057" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation=".671"/>
+    </filter>
+    <filter id="c" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1.125"/>
+    </filter>
+  </defs>
+  <path transform="matrix(.55 0 0 .55 -25.68 56.854)" d="M80.647-95.168c-14.406.774-25.774 12.625-25.774 27.23v45.455A27.213 27.213 0 0 0 82.145 4.79H127.6a27.213 27.213 0 0 0 27.273-27.273v-45.455c0-14.605-11.369-26.456-25.774-27.23z" clip-path="url(#b)" enable-background="new" fill="#141414" filter="url(#c)" opacity=".3" stroke-width=".25" paint-order="normal"/>
+  <path transform="matrix(.55 0 0 .55 -25.68 56.854)" d="M80.647-95.168c-14.406.774-25.774 12.625-25.774 27.23v45.455A27.213 27.213 0 0 0 82.145 4.79H127.6a27.213 27.213 0 0 0 27.273-27.273v-45.455c0-14.605-11.369-26.456-25.774-27.23z" clip-path="url(#b)" enable-background="new" fill="url(#d)" stroke-width=".25" paint-order="normal"/>
+  <g transform="matrix(.5 0 0 .5 -52 -268.733)" clip-path="url(#e)">
+    <rect x="128" y="625.5" width="80" height="8" rx="4" ry="4" enable-background="new" fill="#e1dedb" overflow="visible"/>
+    <rect x="128" y="625.5" width="48.125" height="8" rx="4" ry="4" enable-background="new" fill="#3584e4" overflow="visible"/>
+  </g>
+  <g transform="matrix(2 0 0 2 -18 -490.097)" fill="#9a9996">
+    <path d="M25 253.04a1 1 0 0 0-1 1v3.546l-1.293-1.293a1 1 0 1 0-1.414 1.414l3 3a1 1 0 0 0 1.414 0l3-3a1 1 0 0 0-1.414-1.414L26 257.586v-3.546a1 1 0 0 0-1-1z" enable-background="new"/>
+    <rect x="21" y="261.045" width="8" height="2" rx="1" ry=".966" enable-background="new" style="-inkscape-stroke:none"/>
+  </g>
+  <g transform="matrix(.50528 0 0 .50528 82.1 28.811)">
+    <g transform="translate(-235.945 -275.511)" fill="#3584e4" filter="url(#f)" stroke="#3584e4" style="mix-blend-mode:screen">
+      <circle cx="139.445" cy="333.011" r="2.5" enable-background="new"/>
+      <circle cx="143.823" cy="337.533" r="2.5" enable-background="new"/>
+      <circle cx="153.106" cy="327.936" r="2.5" enable-background="new"/>
+      <circle cx="150.449" cy="333.94" r="2.5" enable-background="new"/>
+      <circle cx="161.745" cy="334.377" r="2.5" enable-background="new"/>
+      <circle cx="175.5" cy="328" r="2.5" enable-background="new"/>
+      <circle cx="175.218" cy="321.954" r="2.5" enable-background="new"/>
+      <circle cx="179.014" cy="317.064" r="2.5" enable-background="new"/>
+      <circle cx="174.042" cy="310.049" r="2.5" enable-background="new"/>
+      <circle cx="175.942" cy="299.46" r="2.5" enable-background="new"/>
+      <circle cx="177.907" cy="291.514" r="2.5" enable-background="new"/>
+      <circle cx="185.985" cy="287.486" r="2.5" enable-background="new"/>
+      <circle cx="183.942" cy="279.496" r="2.5" enable-background="new"/>
+      <circle cx="190.587" cy="275.464" r="1.5" enable-background="new"/>
+      <circle cx="189.833" cy="281.645" r="1.5" enable-background="new"/>
+      <circle cx="182.636" cy="293.615" r="1.5" enable-background="new"/>
+      <circle cx="177.097" cy="305.768" r="1.5" enable-background="new"/>
+      <circle cx="178.945" cy="312.011" r="1.5" enable-background="new"/>
+      <circle cx="170.889" cy="325.27" r="1.5" enable-background="new"/>
+      <circle cx="168.81" cy="334.536" r="1.5" enable-background="new"/>
+      <circle cx="163.604" cy="329.535" r="1.5" enable-background="new"/>
+      <circle cx="158.663" cy="329.463" r="1.5" enable-background="new"/>
+      <circle cx="163.785" cy="323.558" r="1.5" enable-background="new"/>
+      <circle cx="171.551" cy="316.644" r="1.5" enable-background="new"/>
+      <circle cx="180.868" cy="325.338" r="1.5" enable-background="new"/>
+      <circle cx="192.332" cy="312.213" r="1.5" enable-background="new"/>
+      <circle cx="186.619" cy="299.846" r="1.5" enable-background="new"/>
+      <circle cx="189.095" cy="329.424" r="1.5" enable-background="new"/>
+      <circle cx="176.576" cy="336.76" r="1.5" enable-background="new"/>
+      <circle cx="163.851" cy="341.977" r="1.5" enable-background="new"/>
+      <circle cx="162.253" cy="315.576" r="1.5" enable-background="new"/>
+      <circle cx="172.781" cy="280.382" r="1.5" enable-background="new"/>
+      <circle cx="172.781" cy="280.382" r="1.5" enable-background="new"/>
+      <circle cx="156.858" cy="332.981" r="1.5" enable-background="new"/>
+      <circle cx="152.639" cy="338.406" r="1.5" enable-background="new"/>
+      <circle cx="169.186" cy="329.139" r="1.5" enable-background="new"/>
+      <circle cx="196.945" cy="271.011" r="1.5" enable-background="new"/>
+    </g>
+    <circle cx="-96.5" cy="57.5" r="2.5" enable-background="new" fill="#99c1f1" stroke="#3584e4"/>
+    <g fill="#fff">
+      <circle cx="-92.122" cy="62.022" r="2.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-82.839" cy="52.424" r="2.5" enable-background="new" stroke="#62a0ea"/>
+      <circle cx="-85.496" cy="58.429" r="2.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-74.2" cy="58.865" r="2.5" enable-background="new" stroke="#3584e4"/>
+    </g>
+    <g stroke="#3584e4">
+      <circle cx="-60.445" cy="52.489" r="2.5" enable-background="new" fill="#99c1f1"/>
+      <circle cx="-60.727" cy="46.442" r="2.5" enable-background="new" fill="#fff"/>
+      <circle cx="-56.931" cy="41.553" r="2.5" enable-background="new" fill="#99c1f1"/>
+    </g>
+    <g fill="#fff">
+      <circle cx="-61.903" cy="34.538" r="2.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-60.003" cy="23.949" r="2.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-58.038" cy="16.003" r="2.5" enable-background="new" stroke="#99c1f1"/>
+      <circle cx="-49.96" cy="11.974" r="2.5" enable-background="new" stroke="#3584e4"/>
+    </g>
+    <circle cx="-52.003" cy="3.985" r="2.5" enable-background="new" fill="#99c1f1" stroke="#3584e4"/>
+    <circle cx="-45.358" cy="-.047" r="1.5" enable-background="new" fill="#fff" stroke="#3584e4"/>
+    <circle cx="-46.112" cy="6.134" r="1.5" enable-background="new" fill="#fff" stroke="#62a0ea"/>
+    <circle cx="-53.309" cy="18.103" r="1.5" enable-background="new" fill="#99c1f1" stroke="#3584e4"/>
+    <g fill="#fff">
+      <circle cx="-58.848" cy="30.256" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-57" cy="36.5" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-65.057" cy="49.759" r="1.5" enable-background="new" stroke="#62a0ea"/>
+      <circle cx="-67.135" cy="59.025" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-72.341" cy="54.023" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-77.283" cy="53.952" r="1.5" enable-background="new" stroke="#99c1f1"/>
+      <circle cx="-72.16" cy="48.046" r="1.5" enable-background="new" stroke="#62a0ea"/>
+      <circle cx="-64.394" cy="41.133" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-55.077" cy="49.827" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-43.613" cy="36.701" r="1.5" enable-background="new" stroke="#62a0ea"/>
+      <circle cx="-49.327" cy="24.335" r="1.5" enable-background="new" stroke="#3584e4"/>
+      <circle cx="-46.85" cy="53.913" r="1.5" enable-background="new" stroke="#99c1f1"/>
+      <circle cx="-59.369" cy="61.248" r="1.5" enable-background="new" stroke="#99c1f1"/>
+      <g stroke="#3584e4">
+        <circle cx="-72.094" cy="66.465" r="1.5" enable-background="new"/>
+        <circle cx="-73.692" cy="40.065" r="1.5" enable-background="new"/>
+        <circle cx="-63.165" cy="4.87" r="1.5" enable-background="new"/>
+      </g>
+      <circle cx="-63.165" cy="4.87" r="1.5" enable-background="new" stroke="#99c1f1"/>
+      <g stroke="#3584e4">
+        <circle cx="-79.087" cy="57.47" r="1.5" enable-background="new"/>
+        <circle cx="-83.306" cy="62.895" r="1.5" enable-background="new"/>
+        <circle cx="-66.759" cy="53.628" r="1.5" enable-background="new"/>
+        <circle cx="-39" cy="-4.5" r="1.5" enable-background="new"/>
+      </g>
+    </g>
+  </g>
+</svg>
