@@ -1,0 +1,18 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#0b0a0a" offset="0"/>
+      <stop id="stop3" stop-color="#5a5a58" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <path id="path12" d="m18.187479 17.124991c-0.586754 0-1.062456 0.475703-1.062456 1.062509v23.375044h-2.125042v-23.375044c0-1.760418 1.427107-3.1875 3.187498-3.1875h28.467432c1.419968 0 2.131036 1.716698 1.126973 2.720697l-17.533161 17.533148h4.93884v-2.191343h2.124914v2.722635c0 0.880259-0.71349 1.593749-1.593748 1.593749h-7.595049l-3.652364 3.652365h16.559953v-13.28129h2.125043v13.28129c0 1.173638-0.951405 2.125043-2.125043 2.125043h-18.684867l-3.718791 3.718663h27.184908c0.586755 0 1.062458-0.475702 1.062458-1.062457v-23.375005h2.125042v23.375005c0 1.760392-1.427107 3.1875-3.1875 3.1875h-28.467431c-1.419967 0-2.131035-1.71666-1.126972-2.720723l17.466731-17.466732h-4.872285v2.124915h-2.125042v-2.656208c0-0.880258 0.71349-1.593748 1.593749-1.593748h7.52862l3.718792-3.718755h-16.559952v13.281252h-2.124914v-13.281252c0-1.173612 0.951404-2.125004 2.124914-2.125004h18.684868l3.718792-3.718754z" clip-rule="evenodd" fill="#ffffff" fill-rule="evenodd" stroke-width="1.275"/>
+</svg>
