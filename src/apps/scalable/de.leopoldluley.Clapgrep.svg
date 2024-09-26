@@ -1,0 +1,30 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="paint0_linear_4_8" x1="255.589" x2="255.589" y1="57.431198" y2="282.60999" gradientTransform="matrix(.12097203 0 0 .12097203 88.857049 -6.75047)" gradientUnits="userSpaceOnUse">
+      <stop id="stop12" stop-color="#AFFAFF" offset="0"/>
+      <stop id="stop13" stop-color="#3DDBE6" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#050b0f" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <rect id="rect5" x="5.5" y="5.5" width="53" height="53" ry="14.454545" fill="#ffc71a" stroke-linecap="round" stroke-width="2.6446"/>
+  <path id="path4" d="m42.69489 56.09064h-21.38978l1.070358 3.576427c0.390204 1.30349 1.866642 2.224523 3.5661 2.224523h12.116853c1.699577 0 3.176021-0.921033 3.566111-2.224523z" clip-rule="evenodd" fill="#050b0f" fill-rule="evenodd" stroke-width=".108416"/>
+  <g id="g3" transform="matrix(.90909058 0 0 .90909058 2.9091014 2.9091016)">
+    <path id="rect6" d="m19.754693 5.0602857c-8.140664 0-14.694358 6.5536913-14.694358 14.694356v0.2296l9.467154 31.062877v0c0.506681 2.511903 2.188245 4.939603 3.978286 6.125596 1.790042 1.185993 3.59208 1.766999 5.536751 1.766999h15.913146c4.680163 0 8.705878-3.452903 9.514939-7.892555v0l9.469054-31.292477c0-8.140665-6.553683-14.694356-14.694357-14.694356z" fill="#ffdc6f" stroke="#050b0f" stroke-linecap="round" stroke-width="1.12069"/>
+    <path id="path14" d="m6.5698603 22.992188 5.1371607 16.878906h40.558786l5.107988-16.878906z" fill="#efeadb" stroke-linecap="round" stroke-width="2.68581"/>
+    <g id="g14" transform="translate(-87.776173,10.356464)" stroke-width=".120972">
+      <circle id="circle8" cx="119.77618" cy="13.817192" r="13.620119" fill="url(#paint0_linear_4_8)"/>
+      <path id="path9" d="m133.39629 13.81719c0 7.52228-6.09784 13.62024-13.62012 13.62024-7.52216 0-13.62012-6.09796-13.62012-13.62024 0-7.52216 6.09796-13.62009 13.62012-13.62009 7.52228 0 13.62012 6.09793 13.62012 13.62009zm-25.68648 0c0 6.66411 5.40225 12.06648 12.06636 12.06648s12.06647-5.40237 12.06647-12.06648-5.40236-12.06639-12.06647-12.06639-12.06636 5.40228-12.06636 12.06639z" fill="#050b0f"/>
+      <path id="path10" d="m129.1832 15.25857c-1.15432 1.38501-4.65029-5.71363-9.17634-5.71363s-7.21404 6.6946-8.59917 6.05986c-3.57811-2.53788 2.65485-12.00262 8.54147-11.60021 9.23404 1.09647 9.69566 10.50359 9.23404 11.25398z" fill="#ffffff" fill-opacity=".77"/>
+      <path id="path11" d="m115.59187 26.27489h4.23402v16.81511c-2.33839 0-4.23402-1.89563-4.23402-4.23402z" fill="#050b0f"/>
+      <path id="path12" d="m119.82589 26.27489h4.23402v12.58109c0 2.33839-1.89563 4.23402-4.23402 4.23402z" fill="#050b0f"/>
+    </g>
+  </g>
+</svg>
