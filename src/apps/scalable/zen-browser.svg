@@ -1,0 +1,22 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#050505" offset="0"/>
+      <stop id="stop3" stop-color="#262626" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="f" transform="matrix(.81066448 0 0 .81066448 -.42653867 -.42658423)" fill="#fef9fe" stroke-width="0px">
+    <path id="path3" class="i" d="m63.4352 57.677c-0.0536 3.2125-2.7416 5.7589-5.9546 5.7589h-22.0762c-1.1221 0-1.8295-1.2103-1.2751-2.1859 1.4628-2.5738 4.3202-6.7829 8.5529-9.1539 0.4406-0.2468 0.9366-0.3783 1.4416-0.3783h13.4532c3.2692 0 5.9129 2.6774 5.8582 5.9591z"/>
+    <path id="path4" class="i" d="m45.8707 18.7498c-1.4628 2.5738-4.3202 6.7829-8.5529 9.1539-0.4406 0.2468-0.9366 0.3783-1.4416 0.3783h-13.3567c-3.213 0-5.901-2.5464-5.9546-5.7589-0.0547-3.2817 2.589-5.9591 5.8582-5.9591h22.1726c1.1221 0 1.8295 1.2103 1.2751 2.1859z"/>
+    <path id="path5-5" class="i" d="m22.4207 63.4375c-0.7473 0-1.5065-0.1438-2.2398-0.4475-2.9896-1.2383-4.4093-4.6657-3.171-7.6551 1.9045-4.5977 4.6342-8.7196 8.1136-12.2511 3.6044-3.6585 7.8551-6.5172 12.6343-8.4968 6.5691-2.7211 11.6853-7.8373 14.4061-14.4061 1.2383-2.9896 4.6658-4.409 7.6551-3.171 2.9896 1.2383 4.4093 4.6657 3.171 7.6551-1.9045 4.5977-4.6342 8.7196-8.1136 12.2511-3.6044 3.6585-7.8551 6.5172-12.6343 8.4968-6.5691 2.7211-11.6853 7.8373-14.4061 14.4061-0.9345 2.2562-3.1164 3.6185-5.4153 3.6185z"/>
+  </g>
+</svg>
