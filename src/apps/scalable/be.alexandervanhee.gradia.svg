@@ -1,0 +1,29 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#3584e4" offset="0"/>
+      <stop id="stop3" stop-color="#57e389" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g11" transform="matrix(.87999997 0 0 .87999997 3.840001 3.8400005)">
+    <g fill="none" stroke="#ffffff" stroke-linecap="round" stroke-opacity=".5" stroke-width="2.18182">
+      <path id="path11" d="m11.090909 19.090909v-2.181818c0-3.615767 2.929688-6.545454 6.545455-6.545454h2.181818"/>
+      <path id="path12" d="m52.909091 19.090909v-2.181818c0-3.615767-2.929687-6.545454-6.545454-6.545454h-2.181819"/>
+      <path id="path13" d="m11.090909 44.909089v2.181818c0 3.615767 2.929688 6.545455 6.545455 6.545455h2.181818"/>
+      <path id="path14" d="m52.909091 44.909091v2.181818c0 3.615767-2.929687 6.545455-6.545454 6.545455h-2.181819"/>
+    </g>
+    <g id="g10" transform="matrix(.90338113 0 0 1.125387 3.0918034 -4.0123846)" fill-rule="evenodd" stroke-width=".545455">
+      <path id="path10" d="m15.636364 15.636364h32.727273c1.806818 0 3.272727 1.465909 3.272727 3.272727v26.181819c0 1.806818-1.465909 3.272727-3.272727 3.272727h-32.727273c-1.806818 0-3.272727-1.465909-3.272727-3.272727v-26.181819c0-1.806818 1.465909-3.272727 3.272727-3.272727z" fill="#ffffff"/>
+      <path id="path15" d="m49.454546 19.454546c0 0.903409-0.732955 1.636363-1.636364 1.636363s-1.636363-0.732954-1.636363-1.636363 0.732954-1.636364 1.636363-1.636364 1.636364 0.732955 1.636364 1.636364z" fill="#dcdcdc"/>
+    </g>
+  </g>
+</svg>
