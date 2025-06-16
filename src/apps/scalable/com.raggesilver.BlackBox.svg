@@ -1,0 +1,19 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="matrix(.96363633 0 0 .96363633 127.88181 .6721815)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#241f31" offset="0"/>
+      <stop id="stop3" stop-color="#3d3846" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#c0bfbc" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <rect id="rect1" x="5.5" y="5.5" width="53" height="53" ry="14.454546" fill="url(#linearGradient1)" stroke-linecap="round" stroke-width="2.6446"/>
+  <path id="path5" d="m20.121286 33.876345c0-2.866216-3.27018-2.750798-5.172975-3.770324-0.328621-0.173127-0.482512-0.403964-0.482512-0.673273 0-0.750217 0.848002-0.78869 1.904399-0.78869 0.692508 0 1.578983 0.153891 2.636983 0.461672l0.61396-1.904398c-0.883269-0.250073-1.710432-0.442436-2.500726-0.519382v-2.115998h-2.056686v2.135235c-1.788981 0.230836-2.904689 0.981054-2.904689 2.63538 0 3.00087 3.154761 2.923925 5.172975 3.962688 0.270912 0.134654 0.405567 0.307781 0.405567 0.538618 0 0.865635-0.867239 0.961817-1.942872 0.961817-1.057999 0-2.385307-0.4232-3.289416-0.730981l-0.692508 1.941268c1.057999 0.480909 2.152868 0.769454 3.250943 0.865636v2.558435h2.056686v-2.654617c1.732875-0.307781 3.000871-1.19105 3.000871-2.903086z" clip-rule="evenodd" fill="#ffffff" stroke-linejoin="round" stroke-miterlimit="2" stroke-width="1.60303"/>
+</svg>
