@@ -1,0 +1,42 @@
+<svg id="svg44" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs22">
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.50999746)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1047" stop-color="#4e24be" offset="0"/>
+      <stop id="stop1049" stop-color="#6b76ef" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g fill="#5e4aa6">
+    <g id="g30">
+      <circle id="circle24" cx="-1248.7" cy="-1241.6" r="0"/>
+      <circle id="circle26" cx="-1140.3" cy="-1301.8" r="0"/>
+      <circle id="circle28" cx="-1158.1" cy="-1246" r="0"/>
+    </g>
+    <circle id="circle36" cx="-1157.3" cy="-1267.7" r="0"/>
+    <circle id="circle38" cx="-57.756" cy="-2.1829" r="0" fill-rule="evenodd"/>
+  </g>
+  <rect id="rect1055" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+  <rect id="rect1045" x="4.5000019" y="4.5000019" width="54.999996" height="54.999996" ry="14.999999" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.74436"/>
+  <g fill="#ffffff">
+    <rect id="rect136" x="27.36874" y="14.609257" width="18.718245" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0353"/>
+    <rect id="rect135" x="13.321633" y="14.609257" width="20.953602" height="4.7024798" ry="2.3512399" fill-opacity=".85" stroke-width=".0373485"/>
+    <rect id="rect137" x="21.895254" y="14.609257" width="12.379982" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".028708"/>
+    <rect id="rect138" x="35.73373" y="20.555107" width="17.281216" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0339179"/>
+    <rect id="rect139" x="22.765043" y="20.555107" width="19.344957" height="4.7024798" ry="2.3512399" fill-opacity=".85098" stroke-width=".0358862"/>
+    <rect id="rect140" x="30.680449" y="20.555107" width="11.429553" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".0275841"/>
+    <rect id="rect141" x="31.565809" y="26.500957" width="15.199712" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0318098"/>
+    <rect id="rect142" x="18.679684" y="26.500957" width="19.792624" height="4.7024798" ry="2.3512399" fill-opacity=".85098" stroke-width=".0362991"/>
+    <rect id="rect143" x="26.092325" y="26.500957" width="12.379981" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".028708"/>
+    <rect id="rect144" x="21.033236" y="32.796562" width="19.48888" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0360194"/>
+    <rect id="rect145" x="10.985054" y="32.796562" width="19.792624" height="4.7024798" ry="2.3512399" fill-opacity=".85098" stroke-width=".0362991"/>
+    <rect id="rect146" x="16.046459" y="32.796562" width="14.73122" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".0313157"/>
+    <rect id="rect147" x="27.678596" y="38.742413" width="19.48888" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0360194"/>
+    <rect id="rect148" x="17.630415" y="38.742413" width="19.792624" height="4.7024798" ry="2.3512399" fill-opacity=".85098" stroke-width=".0362991"/>
+    <rect id="rect149" x="25.043056" y="38.742413" width="12.37998" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".028708"/>
+    <rect id="rect150" x="41.668831" y="44.688263" width="11.291264" height="4.7024798" ry="2.3512399" fill-opacity=".2" stroke-width=".0274167"/>
+    <rect id="rect151" x="31.620651" y="44.688263" width="15.693815" height="4.7024798" ry="2.3512399" fill-opacity=".85098" stroke-width=".0323227"/>
+    <rect id="rect152" x="39.033291" y="44.688263" width="8.2811737" height="4.7024798" ry="2.3512399" fill-opacity=".36000001" stroke-width=".0234795"/>
+  </g>
+</svg>
