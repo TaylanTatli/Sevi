@@ -1,0 +1,28 @@
+<svg id="svg44" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs22">
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.50999746)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1047" stop-color="#000000" offset="0"/>
+      <stop id="stop1049" stop-color="#333333" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient2" x1="14" x2="50" y1="11.98907" y2="52.010929" gradientTransform="matrix(.88888889 0 0 .88888889 3.5555556 3.5555559)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1" stop-color="#fefefe" offset=".64874637"/>
+      <stop id="stop3" stop-color="#fef3d4" offset=".75550508"/>
+      <stop id="stop2" stop-color="#fdbbc2" offset="1"/>
+    </linearGradient>
+  </defs>
+  <g fill="#5e4aa6">
+    <g id="g30">
+      <circle id="circle24" cx="-1248.7" cy="-1241.6" r="0"/>
+      <circle id="circle26" cx="-1140.3" cy="-1301.8" r="0"/>
+      <circle id="circle28" cx="-1158.1" cy="-1246" r="0"/>
+    </g>
+    <circle id="circle36" cx="-1157.3" cy="-1267.7" r="0"/>
+    <circle id="circle38" cx="-57.756" cy="-2.1829" r="0" fill-rule="evenodd"/>
+  </g>
+  <rect id="rect1055" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+  <rect id="rect1045" x="4.5000019" y="4.5000019" width="54.999996" height="54.999996" ry="14.999999" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.74436"/>
+  <path id="circle1" class="a" d="m19.365532 14.212507v6.375189h22.214539v-6.375189zm22.214539 6.375189v29.199797h6.419929v-29.199797zm-14.668022 7.377734a10.911696 10.911696 0 0 0-10.912049 10.910015 10.911696 10.911696 0 0 0 10.912049 10.912048 10.911696 10.911696 0 0 0 10.912049-10.912048 10.911696 10.911696 0 0 0-10.912049-10.910015z" fill="url(#linearGradient2)"/>
+</svg>
