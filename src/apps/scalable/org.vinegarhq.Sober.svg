@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-0.03" y="-0.03" width="1.06" height="1.06">
+      <feGaussianBlur stdDeviation="0.65"/>
+    </filter>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#98E357"/>
+      <stop offset="1" stop-color="#26A269"/>
+    </linearGradient>
+    <radialGradient id="iconGradient" cx="32" cy="32" r="32">
+      <stop offset="0" stop-color="#f8fc31"/>
+      <stop offset="0.5" stop-color="#f8fbf2"/>
+      <stop offset="1" stop-color="#f2f3fc"/>
+    </radialGradient>
+  </defs>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#000" opacity="0.3" filter="url(#shadow)"/>
+  <rect x="4" y="4" width="56" height="56" ry="15" fill="url(#bgGradient)"/>
+  <path d="M 46.501 51.71 C 46.075 53.251 44.483 54.153 42.943 53.726 L 12.276 45.239 C 10.736 44.813 9.833 43.22 10.26 41.679 L 14.18 27.515 L 27.078 31.084 L 26.366 33.654 C 26.154 34.424 26.605 35.221 27.375 35.434 L 34.78 37.484 C 35.551 37.696 36.346 37.245 36.56 36.476 L 37.271 33.906 L 50.422 37.545 L 46.501 51.71 Z M 52.973 17.485 C 54.513 17.911 55.415 19.504 54.988 21.044 L 51.049 35.28 L 37.898 31.64 L 38.609 29.07 C 38.822 28.3 38.37 27.503 37.601 27.29 L 30.196 25.24 C 29.426 25.028 28.629 25.479 28.416 26.249 L 27.705 28.82 L 14.807 25.249 L 18.747 11.013 C 19.173 9.474 20.767 8.571 22.307 8.998 L 52.973 17.485 Z" fill="url(#iconGradient)" style=""/>
+</svg>
