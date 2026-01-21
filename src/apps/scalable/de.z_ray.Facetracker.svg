@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-0.03" y="-0.03" width="1.06" height="1.06">
+      <feGaussianBlur stdDeviation="0.65"/>
+    </filter>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#f87c88"/>
+      <stop offset="1" stop-color="#f84256"/>
+    </linearGradient>
+    <linearGradient id="symbolGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2b2b"/>
+      <stop offset="1" stop-color="#0f0f0f"/>
+    </linearGradient>
+  </defs>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#000" opacity="0.3" filter="url(#shadow)"/>
+  <rect x="4" y="4" width="56" height="56" ry="15" fill="url(#bgGradient)"/>
+  <g transform="translate(32 34) scale(1.1)">
+    <rect x="-7" y="-20" width="2" height="6" rx="1" transform="rotate(-20 -6 -17)" fill="url(#symbolGradient)"/>
+    <circle cx="-8.3" cy="-21.8" r="1.6" fill="url(#symbolGradient)"/>
+    <rect x="5" y="-20" width="2" height="6" rx="1" transform="rotate(20 6 -17)" fill="url(#symbolGradient)"/>
+    <circle cx="8.3" cy="-21.8" r="1.6" fill="url(#symbolGradient)"/>
+    <rect x="-16" y="-13" width="32" height="26" rx="5" fill="none" stroke="url(#symbolGradient)" stroke-width="3"/>
+    <path d="M -13 0 C -6.78 -8.798 5.847 -9.156 13 0 C 7.283 8.583 -7.785 8.798 -13 0 Z" fill="url(#symbolGradient)"/>
+    <circle cx="0" cy="0" r="3.6" fill="#db5a67"/>
+  </g>
+</svg>
