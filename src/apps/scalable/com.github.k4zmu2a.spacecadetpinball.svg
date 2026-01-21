@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-0.03" y="-0.03" width="1.06" height="1.06">
+      <feGaussianBlur stdDeviation="0.65"/>
+    </filter>
+
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2f33"/>
+      <stop offset="1" stop-color="#171a1c"/>
+    </linearGradient>
+
+    <radialGradient id="ballGradient" cx="35%" cy="30%" r="70%">
+      <stop offset="0" stop-color="#eeeeee"/>
+      <stop offset="0.4" stop-color="#cfcfcf"/>
+      <stop offset="0.75" stop-color="#9a9a9a"/>
+      <stop offset="1" stop-color="#6f6f6f"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Drop shadow -->
+  <rect
+    x="4.5"
+    y="4.5"
+    width="55"
+    height="55"
+    ry="15"
+    fill="#000"
+    opacity="0.35"
+    filter="url(#shadow)"/>
+
+  <!-- Background -->
+  <rect
+    x="4"
+    y="4"
+    width="56"
+    height="56"
+    ry="15"
+    fill="url(#bgGradient)"/>
+
+  <!-- Ball -->
+  <g transform="matrix(1.810672, 0, 0, 1.810672, 32.552406, 32.368683)">
+
+    <circle
+      cx="0"
+      cy="0"
+      r="11"
+      fill="url(#ballGradient)"
+      stroke="#000"
+      stroke-opacity="0.15"
+      stroke-width="0.6"/>
+
+    <circle
+      cx="-4"
+      cy="-5"
+      r="2.2"
+      fill="#ffffff"
+      opacity="0.55"/>
+
+    </g>
+  </svg>
