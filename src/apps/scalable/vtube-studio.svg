@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#f7ebe6"/>
+      <stop offset="1" stop-color="#f3e4df"/>
+    </linearGradient>
+    <linearGradient id="earLeft" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffc2cf"/>
+      <stop offset="1" stop-color="#ff82ab"/>
+    </linearGradient>
+    <linearGradient id="earRight" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffd1db"/>
+      <stop offset="1" stop-color="#ff9bbb"/>
+    </linearGradient>
+    <linearGradient id="band" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ff8fb2"/>
+      <stop offset="1" stop-color="#e86a94"/>
+    </linearGradient>
+  </defs>
+  <rect x="16" y="16" width="480" height="480" rx="64" fill="url(#bg)"/>
+  <g transform="matrix(1, 0, 0, 1, -75.910057, -28.08716)" style="transform-origin: 268.087px 238.666px;">
+    <path d="M 276.076 398.415 C 230.076 356.415 198.864 253.838 208.864 153.838 C 218.864 73.838 318.864 73.838 323.864 158.838 C 328.864 253.838 305.076 346.415 276.076 398.415 Z" fill="url(#earLeft)"/>
+    <path d="M 284.914 386.419 C 328.914 334.419 388.965 268.106 438.965 243.106 C 488.965 218.106 503.965 303.106 463.965 343.106 C 423.965 383.106 343.914 409.419 284.914 386.419 Z" fill="url(#earRight)"/>
+  </g>
+  <path d="M 59.268 406.846 C 164.076 337.72 293 341.707 406.015 404.52 C 260.368 366.897 209.039 352.709 59.268 406.846 Z" fill="url(#band)" style=""/>
+</svg>
