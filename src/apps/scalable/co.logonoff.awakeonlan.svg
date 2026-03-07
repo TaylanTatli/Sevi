@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-0.03" y="-0.03" width="1.06" height="1.06">
+      <feGaussianBlur stdDeviation="0.65"/>
+    </filter>
+    <linearGradient id="icon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fc6a5c"/>
+      <stop offset="1" stop-color="#e22e32"/>
+    </linearGradient>
+    <linearGradient id="iconShadow" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#77221a"/>
+      <stop offset="1" stop-color="#590400"/>
+    </linearGradient>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#edeff1"/>
+      <stop offset="1" stop-color="#eef0f2"/>
+    </linearGradient>
+  </defs>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#000" opacity="0.35" filter="url(#shadow)"/>
+  <rect x="4" y="4" width="56" height="56" ry="15" fill="url(#bgGradient)"/>
+
+  <path d="M 27.712 33.206 L 40.567 33.206 C 41.21 33.206 41.702 33.703 41.702 34.346 L 41.702 49.02 C 41.702 49.625 41.21 50.156 40.567 50.156 L 27.712 50.156 C 27.069 50.156 26.576 49.663 26.576 49.02 L 26.576 34.346 C 26.576 33.74 27.069 33.206 27.712 33.206 Z" style="" fill="#6f6f6f" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 26.576 28.735 L 41.667 28.735 L 41.667 46.365 L 26.576 46.365 L 26.576 28.735 Z" style="" fill="#2a2a2a" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+
+  <path d="M 52.586 17.665 L 52.586 40.376 C 52.586 42.117 51.183 43.559 49.4 43.559 L 18.766 43.559 C 17.02 43.559 15.578 42.158 15.578 40.376 L 15.578 17.665 C 15.578 15.92 16.981 14.479 18.766 14.479 L 49.4 14.479 C 51.144 14.479 52.586 15.883 52.586 17.665 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 49.056 15.542 C 50.386 15.542 51.447 16.6 51.447 17.93 L 51.447 40.26 C 51.447 41.59 50.386 42.651 49.056 42.651 L 18.993 42.651 C 17.665 42.651 16.605 41.59 16.605 40.26 L 16.605 17.93 C 16.605 16.6 17.665 15.542 18.993 15.542 L 49.056 15.542 Z" style="" fill="#9a96a3" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 12.736 28.394 C 12.47 28.129 14.025 26.308 16.187 24.375 C 18.347 22.44 20.281 21.076 20.548 21.38 C 20.813 21.645 19.258 23.466 17.095 25.397 C 14.937 27.333 13.002 28.696 12.736 28.394 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 35.524 23.54 C 35.638 23.199 33.514 22.176 30.744 21.265 C 27.979 20.356 25.666 19.94 25.552 20.28 C 25.439 20.622 27.561 21.645 30.328 22.553 C 33.096 23.466 35.41 23.881 35.524 23.54 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <rect x="8.644" y="16.227" width="1.138" height="4.55" transform="matrix(0.743145, -0.669131, 0.669131, 0.743145, -2.315923, 17.664196)" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <rect x="20.247" y="15.619" width="4.55" height="1.138" transform="matrix(0.309017, -0.951057, 0.951057, 0.309017, 7.845245, 39.313557)" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 18.956 49.776 L 21.077 44.545 L 23.353 44.62 L 21.189 47.542 L 19.484 50.613 L 18.956 49.739 L 18.956 49.776 Z" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 38.709 45.644 L 34.65 41.702 L 32.606 42.727 L 35.789 44.508 L 38.632 46.632 L 38.747 45.644 L 38.709 45.644 Z" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 38.936 33.019 C 40.416 39.996 35.94 46.859 28.965 48.373 C 21.989 49.853 15.124 45.378 13.609 38.404 C 12.129 31.427 16.605 24.567 23.581 23.046 C 30.556 21.571 37.42 26.044 38.936 33.019 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 38.824 32.602 C 40.301 39.578 35.828 46.44 28.851 47.957 C 21.874 49.437 15.01 44.962 13.494 37.986 C 12.016 31.01 16.49 24.147 23.468 22.631 C 30.443 21.152 37.307 25.627 38.824 32.602 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 37.572 32.87 C 38.897 39.16 34.878 45.342 28.585 46.668 C 22.291 47.996 16.112 43.974 14.785 37.684 C 13.457 31.389 17.476 25.208 23.771 23.881 C 30.064 22.553 36.243 26.574 37.572 32.87 Z" style="" fill="#faf6f3" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 30.443 28.431 C 30.368 28.431 30.328 28.472 30.291 28.545 L 26.728 34.536 C 26.31 34.386 25.891 34.422 25.514 34.687 L 21.798 31.996 C 21.683 31.917 21.569 31.882 21.42 31.917 C 21.189 31.996 21.041 32.225 21.116 32.45 C 21.116 32.565 21.189 32.641 21.267 32.679 L 24.983 35.371 C 24.87 35.748 24.947 36.166 25.173 36.507 C 25.324 36.737 25.552 36.888 25.817 36.963 L 24.679 43.939 C 24.679 44.051 24.753 44.167 24.87 44.204 C 24.983 44.204 25.097 44.127 25.135 44.014 C 25.135 44.014 25.135 44.014 25.135 44.014 L 26.271 37.039 C 26.538 37.039 26.804 36.963 27.031 36.81 C 27.599 36.394 27.751 35.598 27.332 34.991 C 27.258 34.914 27.22 34.839 27.144 34.762 L 30.708 28.773 C 30.783 28.659 30.708 28.545 30.632 28.472 C 30.593 28.472 30.519 28.431 30.48 28.472 L 30.443 28.431 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 26.195 35.294 L 21.493 31.882" style="" fill="rgb(192, 191, 188)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+
+  <path d="M 26.195 35.598 C 26.158 35.598 26.082 35.598 26.042 35.559 C 25.891 35.483 25.855 35.294 25.931 35.142 L 30.177 28.089 C 30.254 27.939 30.443 27.9 30.593 27.977 C 30.744 28.053 30.783 28.241 30.708 28.394 L 26.463 35.447 C 26.424 35.524 26.31 35.598 26.195 35.598 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 24.831 43.824 C 24.831 43.824 24.831 43.824 24.795 43.824 C 24.641 43.824 24.527 43.636 24.527 43.483 L 25.855 35.257 C 25.855 35.106 26.042 34.991 26.195 34.991 C 26.35 34.991 26.463 35.182 26.463 35.333 L 25.135 43.559 C 25.135 43.712 24.983 43.824 24.831 43.824 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 27.22 34.536 C 27.635 35.106 27.523 35.938 26.916 36.354 C 26.35 36.775 25.514 36.659 25.097 36.052 C 24.679 35.483 24.795 34.65 25.4 34.234 C 25.967 33.815 26.804 33.93 27.22 34.536 Z" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 26.615 35.22 C 26.653 35.447 26.5 35.675 26.271 35.748 C 26.042 35.788 25.817 35.635 25.743 35.408 C 25.701 35.182 25.855 34.952 26.082 34.878 C 26.31 34.839 26.538 34.991 26.615 35.22 Z" style="" fill="rgb(19, 28, 26)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 26.615 35.22 C 26.653 35.447 26.5 35.675 26.271 35.712 C 26.042 35.748 25.817 35.598 25.779 35.371 C 25.743 35.142 25.891 34.914 26.12 34.878 C 26.35 34.839 26.576 34.991 26.615 35.22 Z" style="" fill="rgb(19, 28, 26)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 23.771 23.919 C 17.476 25.246 13.457 31.427 14.785 37.72 C 14.785 37.797 14.822 37.871 14.86 37.949 C 13.646 31.694 17.628 25.627 23.845 24.336 C 30.026 23.011 36.131 26.914 37.609 33.055 C 37.609 32.982 37.609 32.943 37.609 32.87 C 36.282 26.574 30.101 22.553 23.81 23.881 L 23.771 23.919 Z" style="" fill="url(#iconShadow)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 21.229 21.114 C 21.153 20.848 21.267 20.545 21.569 20.432 L 23.658 19.709 C 23.921 19.635 24.225 19.748 24.337 20.053 C 24.413 20.318 24.3 20.622 23.997 20.735 L 21.913 21.454 C 21.645 21.532 21.342 21.419 21.229 21.114 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 22.934 21.076 L 23.506 22.631" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <rect x="15.43" y="14.294" width="0.189" height="1.667" transform="matrix(0.942057, -0.335452, 0.335452, 0.942057, 3.52296, 12.849019)" style="" fill="#d3d1cd" stroke-width="1px" opacity="1" fill-rule="nonzero" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 18.689 50.194 C 18.613 49.853 18.841 49.512 19.181 49.437 C 19.523 49.361 19.864 49.589 19.938 49.928 C 20.015 50.272 19.787 50.613 19.447 50.69 C 19.108 50.765 18.766 50.536 18.689 50.194 Z" style="" fill="#3d3846" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 37.949 46.252 C 37.875 45.911 38.103 45.568 38.441 45.494 C 38.785 45.416 39.126 45.644 39.2 45.988 C 39.277 46.328 39.05 46.668 38.709 46.745 C 38.368 46.818 38.025 46.593 37.949 46.252 Z" style="" fill="#3d3846" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 11.902 24.107 C 13.153 22.592 14.518 21.38 16.074 20.168 C 16.907 19.406 17.93 19.597 18.649 19.865 C 19.258 20.091 20.168 20.962 20.623 21.419 C 18.649 22.743 15.694 25.246 12.852 28.507 L 12.016 27.523 C 11.258 26.687 11.068 24.905 11.902 24.147 L 11.902 24.107 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+  <path d="M 34.575 19.293 C 32.83 18.423 31.087 17.851 29.153 17.36 C 28.093 17.02 27.22 17.589 26.653 18.119 C 26.158 18.575 25.701 19.748 25.475 20.318 C 27.826 20.735 31.541 21.834 35.447 23.617 L 35.789 22.367 C 36.131 21.302 35.599 19.597 34.537 19.255 L 34.575 19.293 Z" style="" fill="url(#icon)" stroke-width="1px" opacity="1" fill-rule="evenodd" stroke-linecap="butt" stroke-linejoin="miter"/>
+</svg>
