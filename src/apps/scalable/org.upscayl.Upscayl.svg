@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="64" height="64" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="shadow" x="-0.03" y="-0.03" width="1.06" height="1.06">
+      <feGaussianBlur stdDeviation="0.65"/>
+    </filter>
+    <linearGradient id="bgGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#2b2f53"/>
+      <stop offset="1" stop-color="#171a3c"/>
+    </linearGradient>
+    <linearGradient id="icon" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7faef7"/>
+      <stop offset="1" stop-color="#4585fa"/>
+    </linearGradient>
+    <linearGradient id="darkSq" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4585da"/>
+      <stop offset="1" stop-color="#4585fa"/>
+    </linearGradient>
+    <linearGradient id="lightSq" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#7faef7"/>
+      <stop offset="0.5" stop-color="#6f9ee7"/>
+      <stop offset="1" stop-color="#7faef7"/>
+    </linearGradient>
+    <mask id="mask">
+      <rect x="5.5" y="5.5" width="53" height="53" ry="13" fill="white"/>
+    </mask>
+  </defs>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#000" opacity="0.35" filter="url(#shadow)"/>
+  <rect x="4" y="4" width="56" height="56" ry="15" fill="url(#bgGradient)"/>
+  <g mask="url(#mask)">
+  <path d="M 49.111 60.302 L 14.686 60.302 C 8.61 60.302 3.681 55.373 3.681 49.298 L 3.681 14.88 C 3.681 8.803 8.61 3.874 14.686 3.874 L 49.111 3.874 C 55.177 3.874 60.109 8.803 60.109 14.88 L 60.109 49.298 C 60.109 55.373 55.177 60.302 49.111 60.302 Z" fill="url(#bgGradient)" style=""/>
+  <path d="M 31.894 13.278 L 22.49 13.278 L 22.49 3.88 L 31.894 3.88 L 31.894 13.278 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 31.894 22.685 L 22.49 22.685 L 22.49 13.278 L 31.894 13.278 L 31.894 22.685 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 31.894 32.09 L 22.49 32.09 L 22.49 22.685 L 31.894 22.685 L 31.894 32.09 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 31.894 41.494 L 22.49 41.494 L 22.49 32.09 L 31.894 32.09 L 31.894 41.494 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 31.894 50.899 L 22.49 50.899 L 22.49 41.494 L 31.894 41.494 L 31.894 50.899 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 31.894 60.302 L 22.49 60.302 L 22.49 50.899 L 31.894 50.899 L 31.894 60.302 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 22.49 13.278 L 13.085 13.278 L 13.085 3.88 L 22.49 3.88 L 22.49 13.278 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 22.49 22.685 L 13.085 22.685 L 13.085 13.278 L 22.49 13.278 L 22.49 22.685 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 22.49 32.09 L 13.085 32.09 L 13.085 22.685 L 22.49 22.685 L 22.49 32.09 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 22.49 41.494 L 13.085 41.494 L 13.085 32.09 L 22.49 32.09 L 22.49 41.494 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 22.49 50.899 L 13.085 50.899 L 13.085 41.494 L 22.49 41.494 L 22.49 50.899 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 22.49 60.302 L 13.085 60.302 L 13.085 50.899 L 22.49 50.899 L 22.49 60.302 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 13.085 13.278 L 3.681 13.278 L 3.681 3.88 L 13.085 3.88 L 13.085 13.278 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 13.085 22.685 L 3.681 22.685 L 3.681 13.278 L 13.085 13.278 L 13.085 22.685 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 13.085 32.09 L 3.681 32.09 L 3.681 22.685 L 13.085 22.685 L 13.085 32.09 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 13.085 41.494 L 3.681 41.494 L 3.681 32.09 L 13.085 32.09 L 13.085 41.494 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 13.085 50.899 L 3.681 50.899 L 3.681 41.494 L 13.085 41.494 L 13.085 50.899 Z" fill="url(#darkSq)" style=""/>
+  <path d="M 13.085 60.302 L 3.681 60.302 L 3.681 50.899 L 13.085 50.899 L 13.085 60.302 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 60.109 60.306 L 31.894 60.306 L 31.894 3.88 L 60.109 3.88 L 60.109 60.306 Z" fill="url(#icon)" style=""/>
+  <path d="M 38.898 32.089 C 38.898 35.954 35.762 39.093 31.894 39.093 C 28.026 39.093 24.892 35.954 24.892 32.089 C 24.892 28.222 28.026 25.083 31.894 25.083 C 35.762 25.083 38.898 28.222 38.898 32.089 Z" fill="url(#bgGradient)" style=""/>
+  <path d="M 36.87 32.089 L 35.343 31.051 L 33.816 30.016 L 33.816 32.089 L 33.816 34.16 L 35.343 33.122 L 36.87 32.089 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 26.912 32.089 L 28.445 31.051 L 29.972 30.016 L 29.972 32.089 L 29.972 34.16 L 28.445 33.122 L 26.912 32.089 Z" fill="url(#lightSq)" style=""/>
+  <path d="M 33.407 61.171 L 30.392 61.171 L 30.392 3.005 L 33.407 3.005 L 33.407 61.171 Z" fill="url(#bgGradient)" style=""/>
+  </g>
+</svg>
