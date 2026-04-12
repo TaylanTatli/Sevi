@@ -1,0 +1,40 @@
+<svg id="svg44" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs22">
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur1059" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.50999746)" gradientUnits="userSpaceOnUse">
+      <stop id="stop1047" stop-color="#ededed" offset="0"/>
+      <stop id="stop1049" stop-color="#f9f9f9" offset="1"/>
+    </linearGradient>
+    <filter id="filter1" x="-.038249863" y="-.038249863" width="1.0764997" height="1.0764997" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur1" stdDeviation="0.44009789"/>
+    </filter>
+    <filter id="filter3" x="-.033136365" y="-.022781251" width="1.0662727" height="1.0455625" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur3" stdDeviation="0.30375"/>
+    </filter>
+  </defs>
+  <g fill="#5e4aa6">
+    <g id="g30">
+      <circle id="circle24" cx="-1248.7" cy="-1241.6" r="0"/>
+      <circle id="circle26" cx="-1140.3" cy="-1301.8" r="0"/>
+      <circle id="circle28" cx="-1158.1" cy="-1246" r="0"/>
+    </g>
+    <circle id="circle36" cx="-1157.3" cy="-1267.7" r="0"/>
+    <circle id="circle38" cx="-57.756" cy="-2.1829" r="0" fill-rule="evenodd"/>
+  </g>
+  <rect id="rect1055" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.74436"/>
+  <rect id="rect1045" x="4.5000019" y="4.5000019" width="54.999996" height="54.999996" ry="14.999999" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.74436"/>
+  <g id="Page-1" transform="matrix(1.0643837,0,0,1.0643837,15.085229,14.969861)" fill="#333333" fill-rule="evenodd" stroke-width=".826945">
+    <g id="Icon-Set-Filled" transform="translate(-575,-829)" fill="#333333" stroke-width=".826945">
+      <path id="moon" d="m586.256 845c0-6.9 4.479-12.764 10.744-15.009-1.757-0.63-3.647-0.991-5.628-0.991-9.042 0-16.372 7.164-16.372 16 0 8.837 7.33 16 16.372 16 1.981 0 3.871-0.361 5.628-0.991-6.265-2.245-10.744-8.108-10.744-15.009" fill="#333333" stroke-width=".826945"/>
+    </g>
+  </g>
+  <circle id="circle1" cx="31.999998" cy="32" r="19.559906" fill="none" filter="url(#filter1)" opacity=".5" stroke="#333333" stroke-width=".880185"/>
+  <circle id="path1" cx="31.999998" cy="32" r="19.559906" fill="none" stroke="#333333" stroke-width=".880185"/>
+  <g id="g3" transform="matrix(1.0643837,0,0,1.0643837,15.085229,14.969861)" fill="#333333" fill-rule="evenodd" filter="url(#filter3)" opacity=".5" stroke-width=".826945">
+    <g id="g2" transform="translate(-575,-829)" fill="#333333" stroke-width=".826945">
+      <path id="path2" d="m586.256 845c0-6.9 4.479-12.764 10.744-15.009-1.757-0.63-3.647-0.991-5.628-0.991-9.042 0-16.372 7.164-16.372 16 0 8.837 7.33 16 16.372 16 1.981 0 3.871-0.361 5.628-0.991-6.265-2.245-10.744-8.108-10.744-15.009" fill="#333333" stroke-width=".826945"/>
+    </g>
+  </g>
+</svg>
