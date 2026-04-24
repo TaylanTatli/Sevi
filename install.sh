@@ -51,12 +51,13 @@ install() {
   cp -r ${SRC_DIR}/{LICENSE,AUTHORS}                                                   ${THEME_DIR}
   cp -r ${SRC_DIR}/src/index.theme                                                     ${THEME_DIR}
 
-  if [[ $DESKTOP_SESSION == 'plasma' && ${color} == '' ]]; then
+  if [[ $DESKTOP_SESSION == 'gnome' && ${color} == '-dark' ]]; then
+    sed -i "s/Papirus/Papirus-Dark/g" ${THEME_DIR}/index.theme
+  elif [[ $DESKTOP_SESSION == 'plasma' && ${color} == '' ]]; then
     sed -i "s/Adwaita/breeze/g" ${THEME_DIR}/index.theme
-  fi
-
-  if [[ $DESKTOP_SESSION == 'plasma' && ${color} == '-dark' ]]; then
+  elif [[ $DESKTOP_SESSION == 'plasma' && ${color} == '-dark' ]]; then
     sed -i "s/Adwaita/breeze-dark/g" ${THEME_DIR}/index.theme
+    sed -i "s/Papirus/Papirus-Dark/g" ${THEME_DIR}/index.theme
   fi
 
   cd ${THEME_DIR}

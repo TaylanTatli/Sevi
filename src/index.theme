@@ -1,7 +1,7 @@
 [Icon Theme]
 Name=Sevi
 Comment=Mix of Lüv and Reversal icons with some additions.
-Inherits=Adwaita,hicolor
+Inherits=Papirus,Adwaita,hicolor
 Example=folder
 
 # KDE/Plasma Stuff
