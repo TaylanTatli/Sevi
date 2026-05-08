@@ -92,7 +92,7 @@ install() {
     cp -r ${SRC_DIR}/src/status/{16,22,24,symbolic}                                    ${THEME_DIR}/status
 
     # Change icon color for dark theme
-    sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/status/{16,22,24}/*
+    sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/{places,status}/{16,22,24}/*
     sed -i "s/#222222/#ffffff/g" "${THEME_DIR}"/{apps,places,status}/symbolic/*
 
     cp -r ${SRC_DIR}/links/places/{16,22,24,symbolic}                                  ${THEME_DIR}/places
