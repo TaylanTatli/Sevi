@@ -1,0 +1,20 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#6156f5" offset="0"/>
+      <stop id="stop3" stop-color="#a6b5ff" stop-opacity=".99607843" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <rect id="rect1" x="8" y="8" width="48" height="48" ry="13.090909" fill="#121214" stroke="#000000" stroke-linecap="round" stroke-opacity=".5"/>
+  <path id="text6" d="m29.210205 41.599129v0.0045h-4.633963c-1.492693 0-2.710824 1.216644-2.710824 2.709338 0 1.369528 1.024699 2.508561 2.346706 2.687044h15.575347c1.322006-0.178483 2.346705-1.317516 2.346705-2.687044 0-1.492694-1.21813-2.709338-2.710824-2.709338h-4.633963v-0.0045z" fill="#ffffff" fill-opacity=".94999999"/>
+  <text id="text7" x="19.42996" y="40.84383" fill="#ffffff" fill-opacity=".94999999" font-family="'Gotham Rounded'" font-size="39.2814px" letter-spacing="-1.90233px" stroke-opacity=".460428" stroke-width=".201318">+</text>
+</svg>
