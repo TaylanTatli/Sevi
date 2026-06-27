@@ -1,0 +1,21 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css"/>
+    <style type="text/css"/>
+    <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2f2f2" offset="0"/>
+      <stop stop-color="#fafafa" stop-opacity=".99608" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g transform="matrix(.6624 0 0 .6624 6.2853 6.1653)">
+    <circle transform="rotate(-15 38.821 39)" cx="38.821" cy="39" r="13.45"/>
+    <path d="m54.791 66.081c-0.0972 0.2563-0.2809 0.4707-0.5204 0.6041-2.2364 1.2459-4.6611 2.2391-7.2465 2.9318-16.909 4.5308-34.29-5.5039-38.821-22.413-4.5308-16.909 5.5039-34.29 22.413-38.821 2.5854-0.69274 5.1818-1.045 7.7415-1.0842 0.2741-0.00421 0.5404 0.08959 0.7527 0.26302 2.7683 2.2616 5.3128 4.8168 7.5805 7.6351 0.7815 0.9711-0.3933 2.3942-1.5906 2.0474-3.8317-1.1101-8.0056-1.2214-12.14-0.1136-12.078 3.2363-19.246 15.651-16.009 27.729 3.2363 12.078 15.651 19.246 27.729 16.009 4.1345-1.1078 7.6936-3.2912 10.457-6.1684 0.8635-0.8991 2.5924-0.254 2.4012 0.9778-0.5548 3.5745-1.4807 7.0597-2.7473 10.402zm10.671-9.9074c-0.6711 1.0416-2.1581 0.3617-1.9956-0.8667 0.9674-7.3132 0.5405-14.938-1.489-22.512-2.0295-7.5741-5.4721-14.391-9.9665-20.24-0.7549-0.9825 0.1929-2.3149 1.2949-1.7483 7.6761 3.9468 13.722 10.996 16.131 19.99 2.4099 8.9939 0.6991 18.121-3.9752 25.377z" clip-rule="evenodd" fill-rule="evenodd"/>
+  </g>
+</svg>
