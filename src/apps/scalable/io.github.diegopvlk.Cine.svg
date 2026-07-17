@@ -1,0 +1,41 @@
+<svg id="svg5" version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs id="defs3">
+    <style id="style1" type="text/css"/>
+    <style id="style2" type="text/css"/>
+    <filter id="filter1057" x="-.026999999" y="-.026999999" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur id="feGaussianBlur2" stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop id="stop2" stop-color="#00afef" offset="0"/>
+      <stop id="stop3" stop-color="#18d4b5" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient298" x1="66" x2="66" y1="260" y2="228" gradientTransform="matrix(.54335133 0 0 .51136449 -3.8605263 -91.680615)" gradientUnits="userSpaceOnUse">
+      <stop id="stop297" stop-color="#d6d6d6" offset="0"/>
+      <stop id="stop298" stop-color="#fff" offset="1"/>
+    </linearGradient>
+    <linearGradient id="linearGradient5" x1="-127" x2="-71.999771" y1="60" y2="60.009666" gradientTransform="translate(131.49977 -.509665)" gradientUnits="userSpaceOnUse">
+      <stop id="stop6" stop-color="#00798c" offset="0"/>
+      <stop id="stop8" stop-color="#00cff2" offset=".08822471"/>
+      <stop id="stop9" stop-color="#008093" offset=".15157278"/>
+      <stop id="stop10" stop-color="#04838f" offset=".34891036"/>
+      <stop id="stop11" stop-color="#0d8e80" offset=".69791323"/>
+      <stop id="stop13" stop-color="#118f7b" offset=".86778373"/>
+      <stop id="stop12" stop-color="#16d8c6" offset=".90535051"/>
+      <stop id="stop7" stop-color="#0d7b76" offset="1"/>
+    </linearGradient>
+  </defs>
+  <rect id="rect3" x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect id="rect4" x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <circle id="circle4" cx="-1326.3" cy="-1241.6" r="0" fill="#5e4aa6"/>
+  <circle id="circle5" cx="-226.72" cy="23.855" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <g id="g2" transform="matrix(1.717999 0 0 1.717999 2.9088651 -.09113511)" fill="#131019" fill-opacity=".90459" stroke-linecap="round" stroke-linejoin="bevel" stroke-width=".89148">
+    <rect id="rect69-6-1-9" x="5.2916999" y="5.2916999" width="3.4396" height="3.175" ry="1.4479001" enable-background="new" style="mix-blend-mode:luminosity;paint-order:fill markers stroke"/>
+    <rect id="rect69-6-1-0-2" x="25.135" y="5.2916999" width="3.4396" height="3.175" ry="1.4479001" enable-background="new" style="mix-blend-mode:luminosity;paint-order:fill markers stroke"/>
+    <rect id="rect69-6-1-0-4-6" x="15.214" y="5.2916999" width="3.4396" height="3.175" ry="1.4479001" enable-background="new" style="mix-blend-mode:luminosity;paint-order:fill markers stroke"/>
+    <rect id="rect69-6-1-0-4-9-6" x="20.174" y="5.2916999" width="3.4396" height="3.175" ry="1.4479001" enable-background="new" style="mix-blend-mode:luminosity;paint-order:fill markers stroke"/>
+    <rect id="rect69-6-1-0-4-2-4" x="10.253" y="5.2916999" width="3.4396" height="3.175" ry="1.4479001" enable-background="new" style="mix-blend-mode:luminosity;paint-order:fill markers stroke"/>
+  </g>
+  <rect id="rect1" x="9.2819033" y="18.5" width="45.436192" height="35" ry="9.545455" fill="#1a1622" fill-opacity=".9013" stroke-linecap="round" stroke-width="1.98985"/>
+  <path id="path1-8-2" d="m23.306649 40.725641v-15.276381c0-2.083108 2.047739-2.072285 2.047739-2.072285h0.214669c0.391883 0 0.783765 0.07598 1.131175 0.244124l12.931387 7.773869c0.701605 0.330905 1.061732 1.014457 1.061732 1.697971 0 0.683552-0.36034 1.367066-1.061732 1.703401l-12.931387 7.77387c-0.347623 0.168186-0.739505 0.244124-1.131175 0.238712h-0.214669s-2.047739 0-2.047739-2.083108z" enable-background="new" fill="url(#linearGradient298)" stroke-width="1.49898" style="mix-blend-mode:normal"/>
+  <path id="rect5" d="m4.5 42.5v2c0 8.31 6.69 15 15 15h25c8.31 0 15-6.69 15-15v-2c0 8.31-6.69 15-15 15h-25c-8.31 0-15-6.69-15-15z" fill="url(#linearGradient5)"/>
+</svg>
