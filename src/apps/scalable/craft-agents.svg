@@ -1,0 +1,22 @@
+<svg version="1.1" viewBox="0 0 64 64" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style type="text/css"/>
+    <style type="text/css"/>
+    <filter id="filter1057" x="-.027" y="-.027" width="1.054" height="1.054" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.61875"/>
+    </filter>
+    <linearGradient id="linearGradient1053" x1="-127" x2="-72" y1="60" y2="5" gradientTransform="translate(131.5 -.51)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f2edf7" offset="0"/>
+      <stop stop-color="#f2f2f2" offset="1"/>
+    </linearGradient>
+    <filter id="filter3" x="-.028796" y="-.025415" width="1.0576" height="1.0508" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="0.40240446"/>
+    </filter>
+  </defs>
+  <circle cx="-1359.5" cy="-1290.3" r="0" fill="#5e4aa6"/>
+  <circle cx="-259.97" cy="-24.874" r="0" fill="#5e4aa6" fill-rule="evenodd"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="#141414" filter="url(#filter1057)" opacity=".3" stroke-linecap="round" stroke-width="2.7444"/>
+  <rect x="4.5" y="4.5" width="55" height="55" ry="15" fill="url(#linearGradient1053)" stroke-linecap="round" stroke-width="2.7444"/>
+  <path d="m21.735 13v7.6728h-6.5044v22.654h6.5044v7.6728h27.034v-15.097h-13.403v-7.8069h13.403v-15.097z" fill="#222" filter="url(#filter3)" opacity=".3" stroke-width=".8414"/>
+  <path d="m21.735 13v7.6728h-6.5044v22.654h6.5044v7.6728h27.034v-15.097h-13.403v-7.8069h13.403v-15.097z" fill="#9570be" stroke-width=".8414"/>
+</svg>
