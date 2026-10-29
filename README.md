@@ -22,7 +22,7 @@ If you use Yay as your AUR-helper, you can use the following command:
 
 ## Preview
 
-![Icons Preview](https://user-images.githubusercontent.com/754514/181782228-da3fc1db-745e-4962-83ef-b185697b0c71.png)
+![Icons Preview](https://github.com/user-attachments/assets/e9c69c44-a258-43ef-91f1-1dc8e78d6efd)
 ![Folder Colors](https://user-images.githubusercontent.com/754514/181847179-1ded05af-5ab3-4767-b9f5-a5171f1de08b.png)
 
 ## Licenses
