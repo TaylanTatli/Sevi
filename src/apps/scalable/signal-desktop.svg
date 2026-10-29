@@ -88,11 +88,11 @@
        gradientTransform="matrix(0.26457812,0,0,0.26457812,34.792021,-0.13493521)"
        gradientUnits="userSpaceOnUse">
       <stop
-         stop-color="#32d7ff"
+         stop-color="#30aeff"
          offset="0"
          id="stop855" />
       <stop
-         stop-color="#329bff"
+         stop-color="#204eff"
          offset="1"
          id="stop857" />
     </linearGradient>
